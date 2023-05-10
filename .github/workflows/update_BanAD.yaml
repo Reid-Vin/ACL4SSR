@@ -41,6 +41,4 @@ jobs:
             adblock.yaml
           signoff: true
         env:
-          LOG_LEVEL: debug
-          LOG_FORMAT: json
           GITHUB_TOKEN: ${{ secrets.COMMON_TOKEN }}
