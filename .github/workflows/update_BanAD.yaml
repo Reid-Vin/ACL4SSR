@@ -42,3 +42,7 @@ jobs:
           signoff: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Print log
+        if: failure()
+        run: cat ${{ github.workspace }}/adblock.log || echo "Log not found"
