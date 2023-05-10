@@ -42,7 +42,3 @@ jobs:
           signoff: true
         env:
           GITHUB_TOKEN: ${{ secrets.COMMON_TOKEN }}
-          
-      - name: Print log
-        if: always()
-        run: echo "${{ job.status }}" > status.txt && echo "${{ steps }}" > steps.txt && cat /github/workspace/adblock.log || echo "Log not found"
