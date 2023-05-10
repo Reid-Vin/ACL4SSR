@@ -1,0 +1,44 @@
+name: Update adblock list
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download and process adblock lists
+        run: |
+          echo "Downloading Adguard DNS block list..."
+          curl -s https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -o filter.txt
+          grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' | sed 's/^/DOMAIN,/' > adguard.yaml
+          rm filter.txt
+          
+          echo "Downloading AdAway block list..."
+          curl -s 'https://adaway.org/hosts.txt' -o adaway.txt
+          sed -n '/^[0-9]/ s/^/DOMAIN,/p' adaway.txt > adaway.yaml
+          rm adaway.txt
+          
+          echo "Downloading ABPindo block list..."
+          curl -s 'https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt' -o ABPindo.txt
+          sed 's/^/DOMAIN,/' ABPindo.txt > ABPindo.yaml
+          rm ABPindo.txt
+          
+          echo "Merging adblock lists into one file..."
+          cat adguard.yaml adaway.yaml ABPindo.yaml > adblock.yaml
+          rm adguard.yaml adaway.yaml ABPindo.yaml
+          
+      - name: Create commit
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Reid-Vin
+          author_email: reid_vin@outlook.com
+          message: Automatic adblock list update
+          add: |
+            adblock.yaml
+          signoff: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
