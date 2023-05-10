@@ -34,7 +34,7 @@ jobs:
       - name: Create commit
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: Reid-Vin
+          author_name: Reid_Vin
           author_email: reid_vin@outlook.com
           message: Automatic adblock list update
           add: |
@@ -44,5 +44,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Print log
-        if: failure()
-        run: cat ${{ github.workspace }}/adblock.log || echo "Log not found"
+        if: always()
+        run: echo "${{ job.status }}" > status.txt && echo "${{ steps }}" > steps.txt && cat /github/workspace/adblock.log || echo "Log not found"
