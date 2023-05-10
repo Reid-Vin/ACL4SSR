@@ -41,7 +41,7 @@ jobs:
             adblock.yaml
           signoff: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.COMMON_TOKEN }}
           
       - name: Print log
         if: always()
