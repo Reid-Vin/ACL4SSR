@@ -19,7 +19,7 @@ jobs:
           
           echo "Downloading AdAway block list..."
           curl -s 'https://adaway.org/hosts.txt' -o adaway.txt
-          sed -n '/^[0-9]/ s/^/DOMAIN,/p' adaway.txt > adaway.yaml
+          sed -n '/^[0-9]/ s/^[0-9.]* //p' adaway.txt | sed 's/^/DOMAIN,/' > adaway.yaml
           rm adaway.txt
           
           echo "Downloading ABPindo block list..."
