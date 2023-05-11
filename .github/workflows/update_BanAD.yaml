@@ -33,7 +33,7 @@ jobs:
           
           echo "Adding header to adblock list..."
           today=$(date '+%Y-%m-%d %H:%M:%S')
-          printf "# 广告列表 adblock rules\n# 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪\n# 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt\n# 更新：%s\n# 数量：%s条\n# 作者：Reid_Vin_Action\n\n" "$today" "$(wc -l < adblock.txt)" > adblock.list
+          printf "# 广告列表 openclash_ad\n# 内容：自定义的openclash_ad三合一广告过滤列表\n# 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt\n# 来源：https://adaway.org/hosts.txt\n# 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt\n# 更新：%s\n# 数量：%s条\n# 作者：Reid_Vin_Action\n\n" "$today" "$(wc -l < adblock.txt)" > adblock.list
           cat adblock.txt >> adblock.list
           rm adblock.txt
           
