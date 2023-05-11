@@ -1,8 +1,8 @@
 name: Update adblock list
 
 on:
-#   schedule:
-#     - cron: "0 6 * * *"
+  # schedule:
+  #   - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,21 +16,21 @@ jobs:
           curl -s https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt -o filter.txt
           grep -o -P '(?<=^\|\|).*(?=\^$)' filter.txt | grep -v '\*' | sed 's/^/DOMAIN-SUFFIX,/' > adguard.yaml
           rm filter.txt
-          
+
           echo "Downloading AdAway block list..."
           curl -s 'https://adaway.org/hosts.txt' -o adaway.txt
-          sed -n '/^[0-9]/ s/^[^ ]* *//p' adaway.txt | sed 's/$/ DOMAIN-SUFFIX/' > adaway.yaml
+          sed -n '/^[0-9]/ s/^/DOMAIN-SUFFIX,/' adaway.txt | sed 's/^[^[:space:]]*[[:space:]]//' > adaway.yaml
           rm adaway.txt
-          
+
           echo "Downloading ABPindo block list..."
           curl -s 'https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt' -o ABPindo.txt
-          sed 's/^/DOMAIN-SUFFIX,/' ABPindo.txt > ABPindo.yaml
+          sed 's/\./\.\*/g' ABPindo.txt | sed -n '/^||/ s/^||\([^|]*\)\^$/DOMAIN-SUFFIX,\1/p' > ABPindo.yaml
           rm ABPindo.txt
-          
+
           echo "Merging adblock lists into one file..."
           cat adguard.yaml adaway.yaml ABPindo.yaml | sort -u > adblock.yaml
           rm adguard.yaml adaway.yaml ABPindo.yaml
-          
+
       - name: Create commit
         uses: EndBug/add-and-commit@v9.1.3
         with:
