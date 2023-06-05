@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2023-06-04 06:02:48
-# 数量：59486条
+# 更新：2023-06-05 06:06:39
+# 数量：59497条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,scptp1.com
@@ -3095,6 +3095,7 @@ DOMAIN-SUFFIX,adswam.com
 DOMAIN-SUFFIX,adsxyz.com
 DOMAIN-SUFFIX,adt328.com
 DOMAIN-SUFFIX,adt545.net
+DOMAIN-SUFFIX,adt567.net
 DOMAIN-SUFFIX,adt598.com
 DOMAIN-SUFFIX,adtag.cc
 DOMAIN-SUFFIX,adtags.mobi
@@ -28810,7 +28811,6 @@ DOMAIN-SUFFIX,embed.usersmagic.com
 DOMAIN-SUFFIX,stats-iobit-com.us-east-1.elasticbeanstalk.com
 DOMAIN-SUFFIX,zeustechnology.com
 DOMAIN-SUFFIX,fwpixel.com
-DOMAIN-SUFFIX,cdn.adt567.net
 DOMAIN-SUFFIX,smartlify.com
 DOMAIN-SUFFIX,analytics.styria.hr
 DOMAIN-SUFFIX,culturaltracking.ru
@@ -37447,6 +37447,7 @@ DOMAIN-SUFFIX,events.attentivemobile.com
 DOMAIN-SUFFIX,events.audiate.me
 DOMAIN-SUFFIX,events.btw.so
 DOMAIN-SUFFIX,events.devcycle.com
+DOMAIN-SUFFIX,events.flagship.io
 DOMAIN-SUFFIX,events.jokerly.com
 DOMAIN-SUFFIX,events.jotform.com
 DOMAIN-SUFFIX,events.matterport.com
@@ -45172,6 +45173,7 @@ DOMAIN-SUFFIX,xmadsapi.joboko.com
 DOMAIN-SUFFIX,zigzag.vn
 DOMAIN-SUFFIX,0776.red
 DOMAIN-SUFFIX,08u6q.com
+DOMAIN-SUFFIX,0hlc8.top
 DOMAIN-SUFFIX,10090dfs.com
 DOMAIN-SUFFIX,1136999.com
 DOMAIN-SUFFIX,1383a.xyz
@@ -45180,6 +45182,7 @@ DOMAIN-SUFFIX,13niao20230422.live
 DOMAIN-SUFFIX,14fa20230523.live
 DOMAIN-SUFFIX,1512a.com
 DOMAIN-SUFFIX,16niao20230125.live
+DOMAIN-SUFFIX,173e.cn
 DOMAIN-SUFFIX,18so.vip
 DOMAIN-SUFFIX,1cdhf.top
 DOMAIN-SUFFIX,1qlgi.top
@@ -45216,6 +45219,7 @@ DOMAIN-SUFFIX,77tum.top
 DOMAIN-SUFFIX,7xwx.cn
 DOMAIN-SUFFIX,88885aaa.com
 DOMAIN-SUFFIX,8b4v.cn
+DOMAIN-SUFFIX,8jxxai.com
 DOMAIN-SUFFIX,92f2m.top
 DOMAIN-SUFFIX,92ph.cn
 DOMAIN-SUFFIX,94evd.xyz
@@ -45297,6 +45301,7 @@ DOMAIN-SUFFIX,blue-rain.com.cn
 DOMAIN-SUFFIX,blvnsgr.xyz
 DOMAIN-SUFFIX,blxfqq.com
 DOMAIN-SUFFIX,bny3.cn
+DOMAIN-SUFFIX,bny6.cn
 DOMAIN-SUFFIX,bnz9.cn
 DOMAIN-SUFFIX,bockd.xyz
 DOMAIN-SUFFIX,boshao666.com
@@ -45379,6 +45384,7 @@ DOMAIN-SUFFIX,doccd.xyz
 DOMAIN-SUFFIX,donku.club
 DOMAIN-SUFFIX,dpaic.xyz
 DOMAIN-SUFFIX,dqazwsxd.xyz
+DOMAIN-SUFFIX,drtyujgsg.xyz
 DOMAIN-SUFFIX,dsctnsn.xyz
 DOMAIN-SUFFIX,dshapv.xyz
 DOMAIN-SUFFIX,dszhqww.cn
@@ -45467,6 +45473,7 @@ DOMAIN-SUFFIX,gzsjym.xyz
 DOMAIN-SUFFIX,gzsscr.cn
 DOMAIN-SUFFIX,h731.icu
 DOMAIN-SUFFIX,hangtuo.pub
+DOMAIN-SUFFIX,haxd7.top
 DOMAIN-SUFFIX,hbbxwan.cn
 DOMAIN-SUFFIX,hbkunye.com
 DOMAIN-SUFFIX,hefei64.com
@@ -45483,11 +45490,13 @@ DOMAIN-SUFFIX,hldwdz.xyz
 DOMAIN-SUFFIX,hoiea.xyz
 DOMAIN-SUFFIX,hontont.com
 DOMAIN-SUFFIX,hpjzpn.xyz
+DOMAIN-SUFFIX,hq390.xyz
 DOMAIN-SUFFIX,hrngmf.com
 DOMAIN-SUFFIX,hsili.ltd
 DOMAIN-SUFFIX,hsrgnac.cn
 DOMAIN-SUFFIX,huangji1.cn
 DOMAIN-SUFFIX,huaweinnd.top
+DOMAIN-SUFFIX,hudqrn.xyz
 DOMAIN-SUFFIX,huishengqihang.xyz
 DOMAIN-SUFFIX,humgrww.xyz
 DOMAIN-SUFFIX,hunlimd.cn
@@ -45669,7 +45678,9 @@ DOMAIN-SUFFIX,nurahf.xyz
 DOMAIN-SUFFIX,nvchmkw.cn
 DOMAIN-SUFFIX,nwandlc.top
 DOMAIN-SUFFIX,nwecd.xyz
+DOMAIN-SUFFIX,nwmol.top
 DOMAIN-SUFFIX,nwuidsbjak.com
+DOMAIN-SUFFIX,oalmbmf.xyz
 DOMAIN-SUFFIX,ocoda.xyz
 DOMAIN-SUFFIX,ogtphoj.cn
 DOMAIN-SUFFIX,oiewpw.com
@@ -45714,6 +45725,7 @@ DOMAIN-SUFFIX,pqxyqq.com
 DOMAIN-SUFFIX,prlioxb.cn
 DOMAIN-SUFFIX,prtlth.xyz
 DOMAIN-SUFFIX,pvjlfjz.cn
+DOMAIN-SUFFIX,pxzkqq.com
 DOMAIN-SUFFIX,pzlxnd.xyz
 DOMAIN-SUFFIX,q1zcp.com
 DOMAIN-SUFFIX,qange.com
@@ -45916,6 +45928,7 @@ DOMAIN-SUFFIX,xiaobixiaobi.com
 DOMAIN-SUFFIX,xiaochen1.cn
 DOMAIN-SUFFIX,xiaodouding.club
 DOMAIN-SUFFIX,xiaoliublog.icu
+DOMAIN-SUFFIX,xiaosss.ren
 DOMAIN-SUFFIX,xiaoyunong13.top
 DOMAIN-SUFFIX,xiiljoy.cn
 DOMAIN-SUFFIX,xingyang.in
@@ -46008,16 +46021,14 @@ DOMAIN-SUFFIX,zscgoqt.cn
 DOMAIN-SUFFIX,ztaan.top
 DOMAIN-SUFFIX,zvfaxh.xyz
 DOMAIN-SUFFIX,zxgko.cn
-DOMAIN-SUFFIX,pxzkqq.com
-DOMAIN-SUFFIX,hudqrn.xyz
-DOMAIN-SUFFIX,xiaosss.ren
-DOMAIN-SUFFIX,oalmbmf.xyz
-DOMAIN-SUFFIX,173e.cn
-DOMAIN-SUFFIX,8jxxai.com
-DOMAIN-SUFFIX,drtyujgsg.xyz
-DOMAIN-SUFFIX,hq390.xyz
-DOMAIN-SUFFIX,haxd7.top
-DOMAIN-SUFFIX,0hlc8.top
+DOMAIN-SUFFIX,lazyii.icu
+DOMAIN-SUFFIX,zangtankqq.com
+DOMAIN-SUFFIX,vrffwbf.cn
+DOMAIN-SUFFIX,hefrpv.xyz
+DOMAIN-SUFFIX,yytxzct.xyz
+DOMAIN-SUFFIX,bwandlv.top
+DOMAIN-SUFFIX,wodw0.xyz
+DOMAIN-SUFFIX,rp9p0.xyz
 DOMAIN-SUFFIX,001adafg.xyz
 DOMAIN-SUFFIX,003aldjads.xyz
 DOMAIN-SUFFIX,004fsdljasd.xyz
