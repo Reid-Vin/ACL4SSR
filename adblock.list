@@ -3,10 +3,11 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2023-08-05 06:03:02
-# 数量：60624条
+# 更新：2023-08-06 06:03:19
+# 数量：60635条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,idydlesswale.info
 DOMAIN-SUFFIX,lumpyactive.com
 DOMAIN-SUFFIX,adolescentshirt.com
 DOMAIN-SUFFIX,porgruite.com
@@ -1234,6 +1235,7 @@ DOMAIN-SUFFIX,stripe.rs-1028-a.com
 DOMAIN-SUFFIX,hub.fghtem.com
 DOMAIN-SUFFIX,adrunnr.com
 DOMAIN-SUFFIX,samsungtvads.com
+DOMAIN-SUFFIX,d1o6lu9dr4t13s.cloudfront.net
 DOMAIN-SUFFIX,adserver.pandora.com
 DOMAIN-SUFFIX,zap.cdn.zynga.com
 DOMAIN-SUFFIX,mv.outbrain.com
@@ -28135,6 +28137,7 @@ DOMAIN-SUFFIX,adincon.com
 DOMAIN-SUFFIX,adindigo.com
 DOMAIN-SUFFIX,adingo.jp
 DOMAIN-SUFFIX,adinplay.com
+DOMAIN-SUFFIX,adinplay.workers.dev
 DOMAIN-SUFFIX,adintend.com
 DOMAIN-SUFFIX,adinterax.com
 DOMAIN-SUFFIX,adinvigorate.com
@@ -47615,6 +47618,7 @@ DOMAIN-SUFFIX,bgdizsay.icu
 DOMAIN-SUFFIX,bifyeldv.top
 DOMAIN-SUFFIX,bkhblj.xyz
 DOMAIN-SUFFIX,bkjlf58.com
+DOMAIN-SUFFIX,bnds4.site
 DOMAIN-SUFFIX,bnds8.site
 DOMAIN-SUFFIX,bnfyzszm.icu
 DOMAIN-SUFFIX,boewgph.icu
@@ -47661,6 +47665,7 @@ DOMAIN-SUFFIX,donchen501.cn
 DOMAIN-SUFFIX,dosre12.xyz
 DOMAIN-SUFFIX,dstbekdf.xyz
 DOMAIN-SUFFIX,dstbunkfw.xyz
+DOMAIN-SUFFIX,dwfjtz.xyz
 DOMAIN-SUFFIX,dyeperd.icu
 DOMAIN-SUFFIX,dzkwj0y.xyz
 DOMAIN-SUFFIX,eamqbaqzaewwq.top
@@ -47681,8 +47686,10 @@ DOMAIN-SUFFIX,evidhjksdtgyxrh.xyz
 DOMAIN-SUFFIX,ewfsef.com
 DOMAIN-SUFFIX,eyq3nog.icu
 DOMAIN-SUFFIX,fantuan.name
+DOMAIN-SUFFIX,fcbqxt.xyz
 DOMAIN-SUFFIX,fddxbn.xyz
 DOMAIN-SUFFIX,feiln.xyz
+DOMAIN-SUFFIX,fengyukun03.cn
 DOMAIN-SUFFIX,fhglcpf.icu
 DOMAIN-SUFFIX,fjsytjs.cn
 DOMAIN-SUFFIX,fjtroip.cn
@@ -47703,6 +47710,7 @@ DOMAIN-SUFFIX,gyq3bew.icu
 DOMAIN-SUFFIX,gyutmrp.com
 DOMAIN-SUFFIX,hanwdsii.com
 DOMAIN-SUFFIX,hasgde.site
+DOMAIN-SUFFIX,hbqabbg.cn
 DOMAIN-SUFFIX,hdfdsdaw.com
 DOMAIN-SUFFIX,hdpdrandpd.xyz
 DOMAIN-SUFFIX,hegk01a.top
@@ -47754,6 +47762,7 @@ DOMAIN-SUFFIX,jnhgm.com
 DOMAIN-SUFFIX,jochenanabata.guru
 DOMAIN-SUFFIX,jokerlulm.com
 DOMAIN-SUFFIX,jpqed.xyz
+DOMAIN-SUFFIX,jpush0b.xyz
 DOMAIN-SUFFIX,jpvrbt.xyz
 DOMAIN-SUFFIX,jrmrijv.icu
 DOMAIN-SUFFIX,jslbaha.top
@@ -47763,6 +47772,7 @@ DOMAIN-SUFFIX,jujcjz.xyz
 DOMAIN-SUFFIX,jutwzssh.icu
 DOMAIN-SUFFIX,jvjlkih.com
 DOMAIN-SUFFIX,jzdgn.cn
+DOMAIN-SUFFIX,jzdwl4.cn
 DOMAIN-SUFFIX,jzixypd.icu
 DOMAIN-SUFFIX,jzxpxj.xyz
 DOMAIN-SUFFIX,kahgjjd.com
@@ -47771,6 +47781,7 @@ DOMAIN-SUFFIX,kdvmnn.com
 DOMAIN-SUFFIX,kgeesh.site
 DOMAIN-SUFFIX,kklpe.xyz
 DOMAIN-SUFFIX,kljslku.com
+DOMAIN-SUFFIX,klufjdo.com
 DOMAIN-SUFFIX,knjmhmk.com
 DOMAIN-SUFFIX,kodfn.xyz
 DOMAIN-SUFFIX,kqubxdb.cn
@@ -47825,6 +47836,7 @@ DOMAIN-SUFFIX,ntozchv.icu
 DOMAIN-SUFFIX,nunxhv.com
 DOMAIN-SUFFIX,nxhwvt.xyz
 DOMAIN-SUFFIX,oifyeldk.top
+DOMAIN-SUFFIX,oijmds.com
 DOMAIN-SUFFIX,oiunga.com
 DOMAIN-SUFFIX,okmhmkjnm.com
 DOMAIN-SUFFIX,one6u.xyz
@@ -47854,6 +47866,7 @@ DOMAIN-SUFFIX,qrirud.xyz
 DOMAIN-SUFFIX,qselic.top
 DOMAIN-SUFFIX,qwdbsjnql.com
 DOMAIN-SUFFIX,rabuagc.cn
+DOMAIN-SUFFIX,rdbousn.cn
 DOMAIN-SUFFIX,rddsjx.xyz
 DOMAIN-SUFFIX,rdufuxr.icu
 DOMAIN-SUFFIX,relafp.xyz
@@ -47909,6 +47922,7 @@ DOMAIN-SUFFIX,unjld.com
 DOMAIN-SUFFIX,uxtruz.xyz
 DOMAIN-SUFFIX,uyq3ruf.icu
 DOMAIN-SUFFIX,v1gyb.xyz
+DOMAIN-SUFFIX,vcydyzd.icu
 DOMAIN-SUFFIX,vhjxrj.xyz
 DOMAIN-SUFFIX,vmdlxj.xyz
 DOMAIN-SUFFIX,vnfsbl.xyz
@@ -47962,17 +47976,13 @@ DOMAIN-SUFFIX,zfvltd.xyz
 DOMAIN-SUFFIX,zifyeldq.top
 DOMAIN-SUFFIX,ziravd.xyz
 DOMAIN-SUFFIX,znyjmbh.icu
-DOMAIN-SUFFIX,bnds4.site
-DOMAIN-SUFFIX,klufjdo.com
-DOMAIN-SUFFIX,rdbousn.cn
-DOMAIN-SUFFIX,vcydyzd.icu
-DOMAIN-SUFFIX,fengyukun03.cn
-DOMAIN-SUFFIX,hbqabbg.cn
-DOMAIN-SUFFIX,jzdwl4.cn
-DOMAIN-SUFFIX,fcbqxt.xyz
-DOMAIN-SUFFIX,dwfjtz.xyz
-DOMAIN-SUFFIX,oijmds.com
-DOMAIN-SUFFIX,jpush0b.xyz
+DOMAIN-SUFFIX,nmdotj.xyz
+DOMAIN-SUFFIX,dfgpifa.com
+DOMAIN-SUFFIX,canser5.top
+DOMAIN-SUFFIX,yegziyf.cn
+DOMAIN-SUFFIX,foirkrt.icu
+DOMAIN-SUFFIX,mnhknds.com
+DOMAIN-SUFFIX,dghkpp.xyz
 DOMAIN-SUFFIX,zonyff.xyz
 DOMAIN-SUFFIX,zxrcfw.com
 DOMAIN-SUFFIX,zypzzv.xyz
@@ -53657,6 +53667,7 @@ DOMAIN-SUFFIX,linkdoni.soft98.ir
 DOMAIN-SUFFIX,ad.technews-iran.com
 DOMAIN-SUFFIX,adengine.telewebion.com
 DOMAIN-SUFFIX,rokhdad.telewebion.com
+DOMAIN-SUFFIX,analytics.telewebion.com
 DOMAIN-SUFFIX,websocket.varandaz.com
 DOMAIN-SUFFIX,news-view-api.varzesh3.com
 DOMAIN-SUFFIX,video-view-api.varzesh3.com
