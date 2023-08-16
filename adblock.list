@@ -3,10 +3,12 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2023-08-15 06:06:25
-# 数量：61324条
+# 更新：2023-08-16 06:06:41
+# 数量：61343条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,wuftoars.net
+DOMAIN-SUFFIX,afdrivovoq.com
 DOMAIN-SUFFIX,sjolcdkqwiybh.xyz
 DOMAIN-SUFFIX,gastersliddry.com
 DOMAIN-SUFFIX,anemenzemkwkm.top
@@ -1239,6 +1241,8 @@ DOMAIN-SUFFIX,stripe.rs-1028-a.com
 DOMAIN-SUFFIX,hub.fghtem.com
 DOMAIN-SUFFIX,adrunnr.com
 DOMAIN-SUFFIX,samsungtvads.com
+DOMAIN-SUFFIX,s.4cola.com
+DOMAIN-SUFFIX,s.4tr.cc
 DOMAIN-SUFFIX,d1o6lu9dr4t13s.cloudfront.net
 DOMAIN-SUFFIX,adserver.pandora.com
 DOMAIN-SUFFIX,zap.cdn.zynga.com
@@ -48656,6 +48660,22 @@ DOMAIN-SUFFIX,jqkcett.icu
 DOMAIN-SUFFIX,zszhln.xyz
 DOMAIN-SUFFIX,sensifyfugged.com
 DOMAIN-SUFFIX,simblotusitate.com
+DOMAIN-SUFFIX,iqgoukn.cn
+DOMAIN-SUFFIX,ndqcz0e.xyz
+DOMAIN-SUFFIX,chozarpeases.com
+DOMAIN-SUFFIX,hh6820123.com
+DOMAIN-SUFFIX,bnds7.site
+DOMAIN-SUFFIX,gdjme27.com
+DOMAIN-SUFFIX,pypwxvo.cn
+DOMAIN-SUFFIX,lfjtiuy.cn
+DOMAIN-SUFFIX,lslbahl.top
+DOMAIN-SUFFIX,vhsutpgui.xyz
+DOMAIN-SUFFIX,jixmlx.xyz
+DOMAIN-SUFFIX,kmnhgna.com
+DOMAIN-SUFFIX,tcuqqhj.icu
+DOMAIN-SUFFIX,bmptbyb.com
+DOMAIN-SUFFIX,vhutitpu.icu
+DOMAIN-SUFFIX,zcbfjd.xyz
 DOMAIN-SUFFIX,zonyff.xyz
 DOMAIN-SUFFIX,zvasuzb.icu
 DOMAIN-SUFFIX,zxrcfw.com
@@ -54314,8 +54334,8 @@ DOMAIN-SUFFIX,analytics.dunro.com
 DOMAIN-SUFFIX,ads.dabi.ir
 DOMAIN-SUFFIX,tracker.digikala.com
 DOMAIN-SUFFIX,new-sentry.digikala.com
-DOMAIN-SUFFIX,sentry-new.divar.ir
-DOMAIN-SUFFIX,ammaar.delivery.zeerak.cloud
+DOMAIN-SUFFIX,sentry.divar.cloud
+DOMAIN-SUFFIX,actionlog.divar.ir
 DOMAIN-SUFFIX,vast.filmnet.ir
 DOMAIN-SUFFIX,analytics.football360.ir
 DOMAIN-SUFFIX,fb-gw.bef.rest
@@ -54342,7 +54362,6 @@ DOMAIN-SUFFIX,websocket.sobhtazeh.news
 DOMAIN-SUFFIX,linkdoni.soft98.ir
 DOMAIN-SUFFIX,ad.technews-iran.com
 DOMAIN-SUFFIX,adengine.telewebion.com
-DOMAIN-SUFFIX,rokhdad.telewebion.com
 DOMAIN-SUFFIX,analytics.telewebion.com
 DOMAIN-SUFFIX,websocket.varandaz.com
 DOMAIN-SUFFIX,news-view-api.varzesh3.com
