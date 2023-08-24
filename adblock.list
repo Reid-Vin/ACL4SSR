@@ -3,10 +3,12 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2023-08-23 06:07:04
-# 数量：61581条
+# 更新：2023-08-24 06:06:56
+# 数量：61590条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,dioxidtoluyls.com
+DOMAIN-SUFFIX,optaivuy.net
 DOMAIN-SUFFIX,ads1-adnow.com
 DOMAIN-SUFFIX,thaitchy.net
 DOMAIN-SUFFIX,chuxuwem.tv
@@ -27172,6 +27174,7 @@ DOMAIN-SUFFIX,waygatecrowbar.com
 DOMAIN-SUFFIX,waymarkgentiin.com
 DOMAIN-SUFFIX,waymentriddel.com
 DOMAIN-SUFFIX,waynagmay.com
+DOMAIN-SUFFIX,wazaki.xyz
 DOMAIN-SUFFIX,wazbuvdcij.com
 DOMAIN-SUFFIX,wazensee.net
 DOMAIN-SUFFIX,wbdds.com
@@ -35971,6 +35974,9 @@ DOMAIN-SUFFIX,dataunlocker.com
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,affex.org
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,tracking.socketlabs.com
+DOMAIN-SUFFIX,analytics.elegela.us
+DOMAIN-SUFFIX,analytics.code.illusion.jp
 DOMAIN-SUFFIX,a.brack.ch
 DOMAIN-SUFFIX,go.bidfluence.com
 DOMAIN-SUFFIX,stracker.rmg.ru
@@ -37184,8 +37190,6 @@ DOMAIN-SUFFIX,om.dowjoneson.com
 DOMAIN-SUFFIX,omapi.fangraphs.com
 DOMAIN-SUFFIX,onclickpredictiv.com
 DOMAIN-SUFFIX,ophan.theguardian.com
-DOMAIN-SUFFIX,optimize-stats.voxmedia.com
-DOMAIN-SUFFIX,ovk.xceler8.io
 DOMAIN-SUFFIX,p-events.ivideosmart.com
 DOMAIN-SUFFIX,p-log.ykimg.com
 DOMAIN-SUFFIX,p.aty.sohu.com
@@ -37202,7 +37206,6 @@ DOMAIN-SUFFIX,pa.tns-ua.com
 DOMAIN-SUFFIX,pac.thesun.co.uk
 DOMAIN-SUFFIX,pac.thetimes.co.uk
 DOMAIN-SUFFIX,pappagallu.onefootball.com
-DOMAIN-SUFFIX,part-time-job.biz
 DOMAIN-SUFFIX,partner.shareaholic.com
 DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,pbox.photobox.de
@@ -37216,7 +37219,6 @@ DOMAIN-SUFFIX,pgt1.voyage-prive.es
 DOMAIN-SUFFIX,phiesi.stroeerdp.de
 DOMAIN-SUFFIX,ping.buto.tv
 DOMAIN-SUFFIX,ping.hungama.com
-DOMAIN-SUFFIX,ping.smyte.com
 DOMAIN-SUFFIX,pingback.sogou.com
 DOMAIN-SUFFIX,pings.conviva.com
 DOMAIN-SUFFIX,pix.boursorama.com
@@ -37286,7 +37288,6 @@ DOMAIN-SUFFIX,r.miamano.com
 DOMAIN-SUFFIX,r.my.com
 DOMAIN-SUFFIX,r.razer.com
 DOMAIN-SUFFIX,r.rbc.ru
-DOMAIN-SUFFIX,r.remarketingpixel.com
 DOMAIN-SUFFIX,rake.11st.co.kr
 DOMAIN-SUFFIX,ramp.purch.com
 DOMAIN-SUFFIX,rcm.shinobi.jp
@@ -37531,7 +37532,6 @@ DOMAIN-SUFFIX,stats.persgroep.nl
 DOMAIN-SUFFIX,stats.piaggio.com
 DOMAIN-SUFFIX,stats.propublica.org
 DOMAIN-SUFFIX,stats.pusher.com
-DOMAIN-SUFFIX,stats.qmerce.com
 DOMAIN-SUFFIX,stats.searchftps.net
 DOMAIN-SUFFIX,stats.searchftps.org
 DOMAIN-SUFFIX,stats.sharenet.co.za
@@ -37578,7 +37578,6 @@ DOMAIN-SUFFIX,t.arianelab.com
 DOMAIN-SUFFIX,t.channeladvisor.com
 DOMAIN-SUFFIX,t.cinemablend.com
 DOMAIN-SUFFIX,t.clic2buy.com
-DOMAIN-SUFFIX,t.custora.com
 DOMAIN-SUFFIX,t.dailymail.co.uk
 DOMAIN-SUFFIX,t.eharmony.com
 DOMAIN-SUFFIX,t.frtyi.com
@@ -37636,7 +37635,6 @@ DOMAIN-SUFFIX,tms.dmp.wi-fi.ru
 DOMAIN-SUFFIX,tms.oracle.com
 DOMAIN-SUFFIX,tools.ranker.com
 DOMAIN-SUFFIX,top-fwz1.mail.ru
-DOMAIN-SUFFIX,top.eomy.net
 DOMAIN-SUFFIX,top.gigmir.net
 DOMAIN-SUFFIX,top.hsdn.org
 DOMAIN-SUFFIX,top.myfilms.su
@@ -37688,7 +37686,6 @@ DOMAIN-SUFFIX,track.eurogirlsescort.com
 DOMAIN-SUFFIX,track.express.de
 DOMAIN-SUFFIX,track.ft.com
 DOMAIN-SUFFIX,track.fxstreet.com
-DOMAIN-SUFFIX,track.gawker.com
 DOMAIN-SUFFIX,track.hubspot.com
 DOMAIN-SUFFIX,track.hujiang.com
 DOMAIN-SUFFIX,track.libii.cn
@@ -48304,6 +48301,7 @@ DOMAIN-SUFFIX,4asfgyx.com
 DOMAIN-SUFFIX,52acc.cn
 DOMAIN-SUFFIX,52kuwang.cn
 DOMAIN-SUFFIX,5ggj5cp.com
+DOMAIN-SUFFIX,5lfgdju.com
 DOMAIN-SUFFIX,777aa999aa.com
 DOMAIN-SUFFIX,7xixi.site
 DOMAIN-SUFFIX,8861198.com
@@ -48456,6 +48454,7 @@ DOMAIN-SUFFIX,fcbqxt.xyz
 DOMAIN-SUFFIX,fddxbn.xyz
 DOMAIN-SUFFIX,feiln.xyz
 DOMAIN-SUFFIX,fengyukun03.cn
+DOMAIN-SUFFIX,fgetmzx.icu
 DOMAIN-SUFFIX,fhglcpf.icu
 DOMAIN-SUFFIX,fiktvlnc.icu
 DOMAIN-SUFFIX,fjsytjs.cn
@@ -48493,6 +48492,7 @@ DOMAIN-SUFFIX,hbqabbg.cn
 DOMAIN-SUFFIX,hdfdsdaw.com
 DOMAIN-SUFFIX,hdpdrandpd.xyz
 DOMAIN-SUFFIX,hegk01a.top
+DOMAIN-SUFFIX,hegk02a.top
 DOMAIN-SUFFIX,hegk03a.top
 DOMAIN-SUFFIX,hegk05a.top
 DOMAIN-SUFFIX,hfjk3wa.com
@@ -48681,6 +48681,7 @@ DOMAIN-SUFFIX,okmhmkjnm.com
 DOMAIN-SUFFIX,one6u.xyz
 DOMAIN-SUFFIX,oopej.xyz
 DOMAIN-SUFFIX,ooqwc.xyz
+DOMAIN-SUFFIX,oqyiapj.cn
 DOMAIN-SUFFIX,oslbahk.top
 DOMAIN-SUFFIX,ossfile001.com
 DOMAIN-SUFFIX,p11q.cn
@@ -48698,6 +48699,7 @@ DOMAIN-SUFFIX,pirxzl.xyz
 DOMAIN-SUFFIX,pjsbuhl.icu
 DOMAIN-SUFFIX,plbs9k.icu
 DOMAIN-SUFFIX,pmxalz.xyz
+DOMAIN-SUFFIX,pnlhnx.xyz
 DOMAIN-SUFFIX,poqiod.com
 DOMAIN-SUFFIX,powedw.com
 DOMAIN-SUFFIX,pstvvb.xyz
@@ -48887,15 +48889,22 @@ DOMAIN-SUFFIX,ziravd.xyz
 DOMAIN-SUFFIX,zmdjbl.xyz
 DOMAIN-SUFFIX,znyjmbh.icu
 DOMAIN-SUFFIX,zonyff.xyz
+DOMAIN-SUFFIX,zpotkvpy.icu
 DOMAIN-SUFFIX,zszhln.xyz
 DOMAIN-SUFFIX,zvasuzb.icu
 DOMAIN-SUFFIX,zwfkxb.xyz
 DOMAIN-SUFFIX,zxrcfw.com
-DOMAIN-SUFFIX,5lfgdju.com
-DOMAIN-SUFFIX,fgetmzx.icu
-DOMAIN-SUFFIX,hegk02a.top
-DOMAIN-SUFFIX,pnlhnx.xyz
-DOMAIN-SUFFIX,oqyiapj.cn
+DOMAIN-SUFFIX,sd01you.com
+DOMAIN-SUFFIX,38kmute.xyz
+DOMAIN-SUFFIX,xxniln.xyz
+DOMAIN-SUFFIX,prokyrn.icu
+DOMAIN-SUFFIX,hacde10.icu
+DOMAIN-SUFFIX,kjvaqbyebqarl.top
+DOMAIN-SUFFIX,wpoarjokzgi.com
+DOMAIN-SUFFIX,bcsijjgck.xyz
+DOMAIN-SUFFIX,yasg114.com
+DOMAIN-SUFFIX,itienlo.top
+DOMAIN-SUFFIX,rvzlobj.cn
 DOMAIN-SUFFIX,zypzzv.xyz
 DOMAIN-SUFFIX,zzisnvb.cn
 DOMAIN-SUFFIX,01fen.com
@@ -54435,7 +54444,6 @@ DOMAIN-SUFFIX,analytics-2.aasaam.com
 DOMAIN-SUFFIX,analytics-3.aasaam.com
 DOMAIN-SUFFIX,adwised.com
 DOMAIN-SUFFIX,adwisedfs.com
-DOMAIN-SUFFIX,adwised.azureedge.net
 DOMAIN-SUFFIX,adivery.com
 DOMAIN-SUFFIX,adnegah.net
 DOMAIN-SUFFIX,adpulse.ir
@@ -54723,6 +54731,7 @@ DOMAIN-SUFFIX,t.vimeo.com
 DOMAIN-SUFFIX,tracer.perezhilton.com
 DOMAIN-SUFFIX,track.codepen.io
 DOMAIN-SUFFIX,track.collegehumor.com
+DOMAIN-SUFFIX,track.gawker.com
 DOMAIN-SUFFIX,track.zomato.com
 DOMAIN-SUFFIX,tracker.cpapath.com
 DOMAIN-SUFFIX,tracker.lolalytics.com
