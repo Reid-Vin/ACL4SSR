@@ -7,3 +7,5 @@ payload:
   - DOMAIN-KEYWORD,imnks
   - DOMAIN-KEYWORD,sentry
   - DOMAIN-KEYWORD,cn.bing
+  - DOMAIN-KEYWORD,voice.google.com
+  - DOMAIN-KEYWORD,voice-google
