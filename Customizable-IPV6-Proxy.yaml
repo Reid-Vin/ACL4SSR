@@ -1,0 +1,3 @@
+payload:
+  # > Scholar 用于自定义一些常用的走代理的网站
+  - DOMAIN-KEYWORD,ipv6
