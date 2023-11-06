@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,link.zhihu.com
   - DOMAIN-KEYWORD,syno
   - DOMAIN-KEYWORD,spk
-  - DOMAIN-KEYWORD,github
+  # - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,imnks
   - DOMAIN-KEYWORD,sentry
   - DOMAIN-KEYWORD,cn.bing
