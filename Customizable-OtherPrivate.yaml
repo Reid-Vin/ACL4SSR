@@ -1,5 +1,0 @@
-payload:
-  # > Scholar 用于非私人节点的网址
-  - DOMAIN-SUFFIX,acmcwdwodjwejsa.com
-  - DOMAIN-SUFFIX,myprivatevideo.store
-  - IP-CIDR,103.195.103.66/32
