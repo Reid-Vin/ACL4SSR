@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-03-31 06:06:36
-# 数量：71248条
+# 更新：2024-04-01 06:08:02
+# 数量：71279条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,pregainpotgut.top
@@ -54547,6 +54547,7 @@ DOMAIN-SUFFIX,admin-vayvonvietthanh.com
 DOMAIN-SUFFIX,ads-tm-glb.click
 DOMAIN-SUFFIX,adsharedwi897th.cfd
 DOMAIN-SUFFIX,ae888vip.com
+DOMAIN-SUFFIX,aeeonmaill.com
 DOMAIN-SUFFIX,aeeonmart.com
 DOMAIN-SUFFIX,aeoonmail.com
 DOMAIN-SUFFIX,aeshopvn.com
@@ -54588,6 +54589,7 @@ DOMAIN-SUFFIX,almofmultiple.cfd
 DOMAIN-SUFFIX,alovay24h.com
 DOMAIN-SUFFIX,ama-zmart.top
 DOMAIN-SUFFIX,amadbfk.shop
+DOMAIN-SUFFIX,amadbfk.vip
 DOMAIN-SUFFIX,amajwzon456.top
 DOMAIN-SUFFIX,amazon.amazonptj.com
 DOMAIN-SUFFIX,amazonbig.asia
@@ -54636,6 +54638,7 @@ DOMAIN-SUFFIX,asiashop999.com
 DOMAIN-SUFFIX,ateofakist.cfd
 DOMAIN-SUFFIX,atlas-upd.com
 DOMAIN-SUFFIX,atomictrivia.ru
+DOMAIN-SUFFIX,atqa11.com
 DOMAIN-SUFFIX,atspace.tv
 DOMAIN-SUFFIX,atyphy.cyou
 DOMAIN-SUFFIX,avietcombank.com
@@ -54847,6 +54850,7 @@ DOMAIN-SUFFIX,cskh-vib-canhan.com
 DOMAIN-SUFFIX,cskhdienmayxanh.com
 DOMAIN-SUFFIX,cskhdienmayxanhvn.com
 DOMAIN-SUFFIX,cskhmayxanh.com
+DOMAIN-SUFFIX,cskhmbcanhan.com
 DOMAIN-SUFFIX,cskhxacminhtaikhoangarena-vn.com
 DOMAIN-SUFFIX,csr110112201eur.click
 DOMAIN-SUFFIX,csr110112203eur.click
@@ -54908,9 +54912,11 @@ DOMAIN-SUFFIX,dich-vu-the-ai-vpbank.com
 DOMAIN-SUFFIX,dich-vu-the-cashback-vib.com
 DOMAIN-SUFFIX,dich-vu-the-ez-vpbank.com
 DOMAIN-SUFFIX,dich-vu-the-kt3-vib.com
+DOMAIN-SUFFIX,dich-vu-the-vdiamond-vib.com
 DOMAIN-SUFFIX,dich-vu-the-vdiamond-vpbank.com
 DOMAIN-SUFFIX,dich-vu-the-vvip-vpb.com
 DOMAIN-SUFFIX,dich-vu-update-vpbank.com
+DOMAIN-SUFFIX,dich-vu-vip3-vib.com
 DOMAIN-SUFFIX,dichvu-chuyentien24h.000webhostapp.com
 DOMAIN-SUFFIX,dichvu-dien-mayxanh.com
 DOMAIN-SUFFIX,dichvuchuyentien-ind.weebly.com
@@ -54923,8 +54929,10 @@ DOMAIN-SUFFIX,dichvucong.hgov.net
 DOMAIN-SUFFIX,dichvucong.kgov.net
 DOMAIN-SUFFIX,dichvucong.lgov.net
 DOMAIN-SUFFIX,dichvucong.tgovn.cc
+DOMAIN-SUFFIX,dichvucong.tkgov.com
 DOMAIN-SUFFIX,dichvucong.vgovn.net
 DOMAIN-SUFFIX,dichvucong.xgovn.net
+DOMAIN-SUFFIX,dichvucong.zlgov.com
 DOMAIN-SUFFIX,dichvucong.zvgov.com
 DOMAIN-SUFFIX,dichvucongbaohiemxahoi.com
 DOMAIN-SUFFIX,dichvudaohantindung.com
@@ -55024,6 +55032,7 @@ DOMAIN-SUFFIX,escortlarbul.com
 DOMAIN-SUFFIX,eserbank.com
 DOMAIN-SUFFIX,essbritanidim.club
 DOMAIN-SUFFIX,etkf44.com
+DOMAIN-SUFFIX,eufk22.com
 DOMAIN-SUFFIX,eulo11.com
 DOMAIN-SUFFIX,eulo99.com
 DOMAIN-SUFFIX,evay.info
@@ -55331,6 +55340,10 @@ DOMAIN-SUFFIX,hdbankfinance.xyz
 DOMAIN-SUFFIX,hdbanks.com
 DOMAIN-SUFFIX,hdcreditvnn.com
 DOMAIN-SUFFIX,hdfn.online
+DOMAIN-SUFFIX,hdsaison-app.vip
+DOMAIN-SUFFIX,hdsaison-com.cc
+DOMAIN-SUFFIX,hdsaison-hi.cc
+DOMAIN-SUFFIX,hdsaison-vn.cc
 DOMAIN-SUFFIX,hdsaison-vn.com
 DOMAIN-SUFFIX,hdsaisonvn.com
 DOMAIN-SUFFIX,heirreplacem.cfd
@@ -56380,6 +56393,7 @@ DOMAIN-SUFFIX,playtogethershop.com
 DOMAIN-SUFFIX,playtogethervietnam.com
 DOMAIN-SUFFIX,playtogethervn-napthe.com
 DOMAIN-SUFFIX,playzipgames.co
+DOMAIN-SUFFIX,policeonline.club
 DOMAIN-SUFFIX,popvietnam.xyz
 DOMAIN-SUFFIX,pos-quettheonline.com
 DOMAIN-SUFFIX,postindungnhanh-vn.com
@@ -56947,6 +56961,7 @@ DOMAIN-SUFFIX,shoppe8.vip
 DOMAIN-SUFFIX,shoppe81.vip
 DOMAIN-SUFFIX,shoppe85.vip
 DOMAIN-SUFFIX,shoppee-sale-vn.tk
+DOMAIN-SUFFIX,shoppeemall.net
 DOMAIN-SUFFIX,shoppeflashsale.online
 DOMAIN-SUFFIX,shoppeg.com
 DOMAIN-SUFFIX,shoppevip.com
@@ -57207,6 +57222,7 @@ DOMAIN-SUFFIX,taichinhbank.com.vn
 DOMAIN-SUFFIX,taichinhcaptoc.com
 DOMAIN-SUFFIX,taichinhhbaotin.com
 DOMAIN-SUFFIX,taichinhhoangkim.com
+DOMAIN-SUFFIX,taichinhmb.com
 DOMAIN-SUFFIX,taichinhtamanphat.com
 DOMAIN-SUFFIX,taichinhthongminh.online
 DOMAIN-SUFFIX,taichinhvantin.net
@@ -57245,6 +57261,8 @@ DOMAIN-SUFFIX,tb55988.com
 DOMAIN-SUFFIX,tc-clicks.com
 DOMAIN-SUFFIX,tc-viet.click
 DOMAIN-SUFFIX,tdkd01.com
+DOMAIN-SUFFIX,tdkd02.com
+DOMAIN-SUFFIX,tdkd03.com
 DOMAIN-SUFFIX,tdtc.shop
 DOMAIN-SUFFIX,techcombank.ngan-hang.net
 DOMAIN-SUFFIX,techcombank.site
@@ -57364,6 +57382,7 @@ DOMAIN-SUFFIX,tiki94.com
 DOMAIN-SUFFIX,tiki98.com
 DOMAIN-SUFFIX,tiki9833.com
 DOMAIN-SUFFIX,tikia.vip
+DOMAIN-SUFFIX,tikib.vip
 DOMAIN-SUFFIX,tikictv.com
 DOMAIN-SUFFIX,tikictv1.com
 DOMAIN-SUFFIX,tikictv12.com
@@ -57860,6 +57879,7 @@ DOMAIN-SUFFIX,vib-vay.com
 DOMAIN-SUFFIX,vib.chamsockhachang-tructuyen-the.online
 DOMAIN-SUFFIX,vib.chamsockhachang-tructuyen.online
 DOMAIN-SUFFIX,vib.chamsockhachhang-tructuyen-the-visa.com
+DOMAIN-SUFFIX,vib.chamsocthekhachang-tructuyen.com.vn
 DOMAIN-SUFFIX,vib.khach-hang-the-tructuyen.com
 DOMAIN-SUFFIX,vib.khach-hang-the-tructuyen.online
 DOMAIN-SUFFIX,vib.mobi
@@ -58167,6 +58187,7 @@ DOMAIN-SUFFIX,vn-vongquaylol.cf
 DOMAIN-SUFFIX,vn-vp.xyz
 DOMAIN-SUFFIX,vn.btaynguyenfood.com
 DOMAIN-SUFFIX,vn11268shp.com
+DOMAIN-SUFFIX,vn11568p.com
 DOMAIN-SUFFIX,vn119shop.com
 DOMAIN-SUFFIX,vn168d.com
 DOMAIN-SUFFIX,vn22647shp.com
@@ -58180,6 +58201,7 @@ DOMAIN-SUFFIX,vn66733shop.com
 DOMAIN-SUFFIX,vn66954shp.com
 DOMAIN-SUFFIX,vn6932shp.com
 DOMAIN-SUFFIX,vn765.com
+DOMAIN-SUFFIX,vn85548s.com
 DOMAIN-SUFFIX,vn88631p.com
 DOMAIN-SUFFIX,vn88khuyenmai.life
 DOMAIN-SUFFIX,vn88khuyenmai.site
@@ -58497,6 +58519,8 @@ DOMAIN-SUFFIX,0v1syj.cn
 DOMAIN-SUFFIX,1ny3r.icu
 DOMAIN-SUFFIX,2jse6.icu
 DOMAIN-SUFFIX,3bxe2.cyou
+DOMAIN-SUFFIX,3q1lsj.cn
+DOMAIN-SUFFIX,4wu3gf.cn
 DOMAIN-SUFFIX,51hir.cyou
 DOMAIN-SUFFIX,5z0d3.cyou
 DOMAIN-SUFFIX,666bbb333bbb.com
@@ -58561,6 +58585,7 @@ DOMAIN-SUFFIX,cbcvou.xyz
 DOMAIN-SUFFIX,ccsshn137.shop
 DOMAIN-SUFFIX,cdfhidrk.xyz
 DOMAIN-SUFFIX,cdftizu.xyz
+DOMAIN-SUFFIX,cdmgac.xyz
 DOMAIN-SUFFIX,cdmnlxtu.xyz
 DOMAIN-SUFFIX,cdrvkdni.xyz
 DOMAIN-SUFFIX,cdybwjpa.xyz
@@ -58681,12 +58706,15 @@ DOMAIN-SUFFIX,hitchun.com
 DOMAIN-SUFFIX,hjshal.com
 DOMAIN-SUFFIX,hkbumv.icu
 DOMAIN-SUFFIX,hmrwkcx.cn
+DOMAIN-SUFFIX,hnalzlu.top
 DOMAIN-SUFFIX,hnifdlau.top
 DOMAIN-SUFFIX,hozatr.xyz
+DOMAIN-SUFFIX,hptyp.icu
 DOMAIN-SUFFIX,hrnkdr.xyz
 DOMAIN-SUFFIX,hsutav.icu
 DOMAIN-SUFFIX,htyusiu.top
 DOMAIN-SUFFIX,hubgets.cn
+DOMAIN-SUFFIX,hvxrvef.xyz
 DOMAIN-SUFFIX,hyusnisu.top
 DOMAIN-SUFFIX,ijvla.cn
 DOMAIN-SUFFIX,imevzbn.cn
@@ -58764,6 +58792,7 @@ DOMAIN-SUFFIX,ndthdte125.shop
 DOMAIN-SUFFIX,ndthdtr586.shop
 DOMAIN-SUFFIX,neess105.top
 DOMAIN-SUFFIX,ngnxyub.cn
+DOMAIN-SUFFIX,njenlz.cn
 DOMAIN-SUFFIX,njhvalu.cn
 DOMAIN-SUFFIX,nkbkor.icu
 DOMAIN-SUFFIX,nlhpxj.xyz
@@ -58801,7 +58830,9 @@ DOMAIN-SUFFIX,pidzlp.xyz
 DOMAIN-SUFFIX,pimg2023.com
 DOMAIN-SUFFIX,pjzxdl.xyz
 DOMAIN-SUFFIX,pkyjuc.cn
+DOMAIN-SUFFIX,pmtrkp.icu
 DOMAIN-SUFFIX,pnxtnp.xyz
+DOMAIN-SUFFIX,pressit.cn
 DOMAIN-SUFFIX,prhfziq.xyz
 DOMAIN-SUFFIX,przbzr.xyz
 DOMAIN-SUFFIX,pseudonym.cn
@@ -58843,6 +58874,7 @@ DOMAIN-SUFFIX,rouqiuqq.cn
 DOMAIN-SUFFIX,rpnufv.xyz
 DOMAIN-SUFFIX,ruqwgb.icu
 DOMAIN-SUFFIX,rydyvv.xyz
+DOMAIN-SUFFIX,ryhkft.xyz
 DOMAIN-SUFFIX,ryrmvd.xyz
 DOMAIN-SUFFIX,rzfdbsn.cn
 DOMAIN-SUFFIX,rzpvbl.xyz
@@ -58980,6 +59012,7 @@ DOMAIN-SUFFIX,yliffnsc.xyz
 DOMAIN-SUFFIX,yvbjctqs.xyz
 DOMAIN-SUFFIX,yvnxetmq.xyz
 DOMAIN-SUFFIX,yvudqzoa.xyz
+DOMAIN-SUFFIX,ywhws.cn
 DOMAIN-SUFFIX,yyddkm526.shop
 DOMAIN-SUFFIX,yyttmyy.cn
 DOMAIN-SUFFIX,zagyjnn.cn
@@ -58992,14 +59025,12 @@ DOMAIN-SUFFIX,zjrtxt.xyz
 DOMAIN-SUFFIX,znhlxvb.xyz
 DOMAIN-SUFFIX,zojyob.icu
 DOMAIN-SUFFIX,zopuqv.icu
-DOMAIN-SUFFIX,3q1lsj.cn
-DOMAIN-SUFFIX,cdmgac.xyz
-DOMAIN-SUFFIX,ryhkft.xyz
-DOMAIN-SUFFIX,hvxrvef.xyz
-DOMAIN-SUFFIX,hnalzlu.top
-DOMAIN-SUFFIX,pmtrkp.icu
-DOMAIN-SUFFIX,hptyp.icu
-DOMAIN-SUFFIX,pressit.cn
+DOMAIN-SUFFIX,pwhkfd.xyz
+DOMAIN-SUFFIX,wxfdmri.xyz
+DOMAIN-SUFFIX,eluocs.xyz
+DOMAIN-SUFFIX,fmssoj.icu
+DOMAIN-SUFFIX,mpn56e.cn
+DOMAIN-SUFFIX,polepole.cn
 DOMAIN-SUFFIX,zsjpi.cn
 DOMAIN-SUFFIX,zttuvj.xyz
 DOMAIN-SUFFIX,ztxjutz.xyz
