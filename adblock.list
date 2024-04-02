@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-04-01 06:08:02
-# 数量：71279条
+# 更新：2024-04-02 06:07:25
+# 数量：71283条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,pregainpotgut.top
@@ -41932,6 +41932,7 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,jubbie.de
 DOMAIN-SUFFIX,collector.lunalabs.io
 DOMAIN-SUFFIX,greenbids.ai
 DOMAIN-SUFFIX,track.migattenogokui.com
@@ -49699,6 +49700,7 @@ DOMAIN-SUFFIX,softclick.com.br
 DOMAIN-SUFFIX,solution911.com
 DOMAIN-SUFFIX,templates.buscape.com
 DOMAIN-SUFFIX,yestorrents.org
+DOMAIN-SUFFIX,luxcdn.com
 DOMAIN-SUFFIX,vqhrqt.com
 DOMAIN-SUFFIX,marketer.lv
 DOMAIN-SUFFIX,programmatica.com
@@ -52748,7 +52750,6 @@ DOMAIN-SUFFIX,ads.skidspar.se
 DOMAIN-SUFFIX,ads.skolvarlden.se
 DOMAIN-SUFFIX,ads.ungdomar.se
 DOMAIN-SUFFIX,ads.varldenidag.se
-DOMAIN-SUFFIX,ads.veterinaren.nu
 DOMAIN-SUFFIX,adserver.ddev.site
 DOMAIN-SUFFIX,adserver.infotorg.se
 DOMAIN-SUFFIX,adserver.so-rummet.se
@@ -52823,7 +52824,6 @@ DOMAIN-SUFFIX,brandy.bonniernewslifestyle.se
 DOMAIN-SUFFIX,browser.covatic.io
 DOMAIN-SUFFIX,browser-http-intake.logs.datadoghq.com
 DOMAIN-SUFFIX,browser-http-intake.logs.datadoghq.eu
-DOMAIN-SUFFIX,bulletproof-analytics.com
 DOMAIN-SUFFIX,buzzador.com
 DOMAIN-SUFFIX,c.eacla.com
 DOMAIN-SUFFIX,cargodisplayads.com
@@ -52890,7 +52890,6 @@ DOMAIN-SUFFIX,cxpublic.com
 DOMAIN-SUFFIX,d9v72urx9pbbc.cloudfront.net
 DOMAIN-SUFFIX,d33s3ffr7fotas.cloudfront.net
 DOMAIN-SUFFIX,dackpartner-web.s3.amazonaws.com
-DOMAIN-SUFFIX,dakine.com.se
 DOMAIN-SUFFIX,deals.innocode.no
 DOMAIN-SUFFIX,delivered-by-madington.com
 DOMAIN-SUFFIX,di.insplanet.com
@@ -52907,7 +52906,6 @@ DOMAIN-SUFFIX,embi-media.com
 DOMAIN-SUFFIX,etc-cdn-staging.ams3.digitaloceanspaces.com
 DOMAIN-SUFFIX,eum.instana.io
 DOMAIN-SUFFIX,europe-west1-bonnier-big-data.cloudfunctions.net
-DOMAIN-SUFFIX,evtr.nordiskemedier.dk
 DOMAIN-SUFFIX,expo.ads.ramsalt.com
 DOMAIN-SUFFIX,extern.prisjakt.nu
 DOMAIN-SUFFIX,external.reseguiden.se
@@ -52943,6 +52941,7 @@ DOMAIN-SUFFIX,interactions.sesamy.com
 DOMAIN-SUFFIX,investerarbrevet.se
 DOMAIN-SUFFIX,inviso.rampanel.com
 DOMAIN-SUFFIX,ion.btcswe.com
+DOMAIN-SUFFIX,js.evtr.nordiskemedier.dk
 DOMAIN-SUFFIX,js.glitnoraffiliates.com
 DOMAIN-SUFFIX,js.hsleadflows.net
 DOMAIN-SUFFIX,js.multibrandaffiliates.com
@@ -52952,7 +52951,6 @@ DOMAIN-SUFFIX,js.hs-banner.com
 DOMAIN-SUFFIX,keenstockholm.com.se
 DOMAIN-SUFFIX,ksdarprt.reseguiden.se
 DOMAIN-SUFFIX,kyrkoskatten.se
-DOMAIN-SUFFIX,kyrkskatt.se
 DOMAIN-SUFFIX,lanapengar.expressen.se
 DOMAIN-SUFFIX,lararforbundet.analytics.ozzi.io
 DOMAIN-SUFFIX,lasso.link
@@ -53040,7 +53038,6 @@ DOMAIN-SUFFIX,revive.tv7.fi
 DOMAIN-SUFFIX,revive.99mac.se
 DOMAIN-SUFFIX,revrelations.com
 DOMAIN-SUFFIX,richmediastudio.com
-DOMAIN-SUFFIX,rockeringformsweden.com
 DOMAIN-SUFFIX,rockportskorsverige.com
 DOMAIN-SUFFIX,rotator.riedta.com
 DOMAIN-SUFFIX,route.carambo.la
@@ -53074,8 +53071,6 @@ DOMAIN-SUFFIX,se-ads-microservice.ads.allermedia.io
 DOMAIN-SUFFIX,sgtm.inet.se
 DOMAIN-SUFFIX,skattamindre.se
 DOMAIN-SUFFIX,sleeknote.com
-DOMAIN-SUFFIX,smetrics.aftonbladet.se
-DOMAIN-SUFFIX,sneakersisverige.com
 DOMAIN-SUFFIX,source.advisible.com
 DOMAIN-SUFFIX,spel.expressen.se
 DOMAIN-SUFFIX,sprinklecontent.com
@@ -58652,6 +58647,7 @@ DOMAIN-SUFFIX,ejdhmed.xyz
 DOMAIN-SUFFIX,elisium.cn
 DOMAIN-SUFFIX,ellingsen.cn
 DOMAIN-SUFFIX,elphhrj.xyz
+DOMAIN-SUFFIX,eluocs.xyz
 DOMAIN-SUFFIX,endolift.cn
 DOMAIN-SUFFIX,enifdlaw.top
 DOMAIN-SUFFIX,eqqwgw.xyz
@@ -58667,6 +58663,7 @@ DOMAIN-SUFFIX,ferriesendless.com
 DOMAIN-SUFFIX,fhtfnb.xyz
 DOMAIN-SUFFIX,fidelius.cn
 DOMAIN-SUFFIX,fmfnrf.xyz
+DOMAIN-SUFFIX,fmssoj.icu
 DOMAIN-SUFFIX,fpjjjh.xyz
 DOMAIN-SUFFIX,fpvdrzx.xyz
 DOMAIN-SUFFIX,frtnqps358.shop
@@ -58740,6 +58737,7 @@ DOMAIN-SUFFIX,jtyusia.top
 DOMAIN-SUFFIX,jubnpx.xyz
 DOMAIN-SUFFIX,justapp.top
 DOMAIN-SUFFIX,jvkqkzu.cn
+DOMAIN-SUFFIX,jyuwkba.top
 DOMAIN-SUFFIX,jzjpntr.xyz
 DOMAIN-SUFFIX,kbomku.xyz
 DOMAIN-SUFFIX,kdeh.cn
@@ -58782,6 +58780,7 @@ DOMAIN-SUFFIX,mlhtr.cn
 DOMAIN-SUFFIX,mnifdlax.top
 DOMAIN-SUFFIX,moberg.cn
 DOMAIN-SUFFIX,mondigo.cn
+DOMAIN-SUFFIX,mpn56e.cn
 DOMAIN-SUFFIX,mrtxtrq.xyz
 DOMAIN-SUFFIX,mtddqjk.cn
 DOMAIN-SUFFIX,mthhhuq.cn
@@ -58832,10 +58831,12 @@ DOMAIN-SUFFIX,pjzxdl.xyz
 DOMAIN-SUFFIX,pkyjuc.cn
 DOMAIN-SUFFIX,pmtrkp.icu
 DOMAIN-SUFFIX,pnxtnp.xyz
+DOMAIN-SUFFIX,polepole.cn
 DOMAIN-SUFFIX,pressit.cn
 DOMAIN-SUFFIX,prhfziq.xyz
 DOMAIN-SUFFIX,przbzr.xyz
 DOMAIN-SUFFIX,pseudonym.cn
+DOMAIN-SUFFIX,pwhkfd.xyz
 DOMAIN-SUFFIX,pwhtip.icu
 DOMAIN-SUFFIX,pxzrlf.xyz
 DOMAIN-SUFFIX,qbhzghb.xyz
@@ -58974,6 +58975,7 @@ DOMAIN-SUFFIX,wqcfg.cn
 DOMAIN-SUFFIX,wsdwbfs.cn
 DOMAIN-SUFFIX,wtyusie.top
 DOMAIN-SUFFIX,wwjtdjj.cn
+DOMAIN-SUFFIX,wxfdmri.xyz
 DOMAIN-SUFFIX,xcypgd.icu
 DOMAIN-SUFFIX,xdfhidrk.xyz
 DOMAIN-SUFFIX,xdmnlxtu.xyz
@@ -59025,12 +59027,14 @@ DOMAIN-SUFFIX,zjrtxt.xyz
 DOMAIN-SUFFIX,znhlxvb.xyz
 DOMAIN-SUFFIX,zojyob.icu
 DOMAIN-SUFFIX,zopuqv.icu
-DOMAIN-SUFFIX,pwhkfd.xyz
-DOMAIN-SUFFIX,wxfdmri.xyz
-DOMAIN-SUFFIX,eluocs.xyz
-DOMAIN-SUFFIX,fmssoj.icu
-DOMAIN-SUFFIX,mpn56e.cn
-DOMAIN-SUFFIX,polepole.cn
+DOMAIN-SUFFIX,ebwonro.cn
+DOMAIN-SUFFIX,inalzlo.top
+DOMAIN-SUFFIX,qkscga.xyz
+DOMAIN-SUFFIX,xgjidt.xyz
+DOMAIN-SUFFIX,jwhdgt.icu
+DOMAIN-SUFFIX,npjvgug.xyz
+DOMAIN-SUFFIX,szmyl.cn
+DOMAIN-SUFFIX,osusjsga.com
 DOMAIN-SUFFIX,zsjpi.cn
 DOMAIN-SUFFIX,zttuvj.xyz
 DOMAIN-SUFFIX,ztxjutz.xyz
@@ -63523,7 +63527,7 @@ DOMAIN-SUFFIX,b1.engdvd.com
 DOMAIN-SUFFIX,b1.xiao84.com
 DOMAIN-SUFFIX,b17.8794.cn
 DOMAIN-SUFFIX,b7sw62.pingshu8.xyz
-DOMAIN-SUFFIX,bai.luyouwang.com
+DOMAIN-SUFFIX,192.luyouwang.com
 DOMAIN-SUFFIX,baidu1.cardbaobao.com
 DOMAIN-SUFFIX,baidu1.codejie.net
 DOMAIN-SUFFIX,baidujs.cnys.com
