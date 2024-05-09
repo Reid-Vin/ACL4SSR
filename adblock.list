@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-05-08 06:07:41
-# 数量：73442条
+# 更新：2024-05-09 06:08:11
+# 数量：73455条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,fnlojkpbe.com
@@ -41520,6 +41520,7 @@ DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,02777e.site
 DOMAIN-SUFFIX,05751c.site
+DOMAIN-SUFFIX,07e197.site
 DOMAIN-SUFFIX,295c.site
 DOMAIN-SUFFIX,2aeabdd4-3280-4f03-bc92-1890494f28be.xyz
 DOMAIN-SUFFIX,3a2e.site
@@ -55589,6 +55590,7 @@ DOMAIN-SUFFIX,b9645fef65.com
 DOMAIN-SUFFIX,bcajjtbzmdrl.com
 DOMAIN-SUFFIX,bubblekraken.com
 DOMAIN-SUFFIX,cea9d3d4f74fb831.com
+DOMAIN-SUFFIX,chitchooms.net
 DOMAIN-SUFFIX,chqspuonctkgz.com
 DOMAIN-SUFFIX,craydark.pw
 DOMAIN-SUFFIX,d0p21g2fep.com
@@ -61511,6 +61513,14 @@ DOMAIN-SUFFIX,bydebd.xyz
 DOMAIN-SUFFIX,lweriol.top
 DOMAIN-SUFFIX,nrbqgf.cn
 DOMAIN-SUFFIX,qmgria.cn
+DOMAIN-SUFFIX,robudpw.cn
+DOMAIN-SUFFIX,qmbdta.cn
+DOMAIN-SUFFIX,pklujb.xyz
+DOMAIN-SUFFIX,nkbpft.xyz
+DOMAIN-SUFFIX,xmkmryu.icu
+DOMAIN-SUFFIX,iuqasw.xyz
+DOMAIN-SUFFIX,cgidskif.top
+DOMAIN-SUFFIX,54gtlb.cn
 DOMAIN-SUFFIX,zuvbzl.xyz
 DOMAIN-SUFFIX,zwdtvx.xyz
 DOMAIN-SUFFIX,zwxxcb.icu
@@ -73343,6 +73353,8 @@ DOMAIN-SUFFIX,bcajjtbzmdrl.com
 DOMAIN-SUFFIX,bubblekraken.com
 DOMAIN-SUFFIX,cea9d3d4f74fb831.com
 DOMAIN-SUFFIX,chidsimp.com
+DOMAIN-SUFFIX,chitchooms.net
+DOMAIN-SUFFIX,chitchooms.net
 DOMAIN-SUFFIX,chqspuonctkgz.com
 DOMAIN-SUFFIX,craydark.pw
 DOMAIN-SUFFIX,d0p21g2fep.com
@@ -73427,6 +73439,7 @@ DOMAIN-SUFFIX,vrewpywootyu.com
 DOMAIN-SUFFIX,wbaogaqvrukprx.com
 DOMAIN-SUFFIX,whjibbprhng.com
 DOMAIN-SUFFIX,wkuave.com
+DOMAIN-SUFFIX,xosbkqblniusql.com
 DOMAIN-SUFFIX,yllix.com
 DOMAIN-SUFFIX,ys3e965d.top
 DOMAIN-SUFFIX,zukxd6fkxqn.com
