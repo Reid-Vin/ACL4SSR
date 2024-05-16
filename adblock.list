@@ -3,10 +3,11 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-05-15 06:08:02
-# 数量：73631条
+# 更新：2024-05-16 06:06:45
+# 数量：73656条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,pushatomic.com
 DOMAIN-SUFFIX,gussiessmutchy.com
 DOMAIN-SUFFIX,cfusionsys.com
 DOMAIN-SUFFIX,zmonei.com
@@ -1869,6 +1870,7 @@ DOMAIN-SUFFIX,5vbs96dea.com
 DOMAIN-SUFFIX,5vpbnbkiey24.com
 DOMAIN-SUFFIX,5wuefo9haif3.com
 DOMAIN-SUFFIX,5xd3jfwl9e8v.com
+DOMAIN-SUFFIX,6-partner.com
 DOMAIN-SUFFIX,6001628d3d.com
 DOMAIN-SUFFIX,600z.com
 DOMAIN-SUFFIX,6061de8597.com
@@ -10463,6 +10465,7 @@ DOMAIN-SUFFIX,dessertgermdimness.com
 DOMAIN-SUFFIX,dessly.ru
 DOMAIN-SUFFIX,destinationoralairliner.com
 DOMAIN-SUFFIX,destinedsponsornominate.com
+DOMAIN-SUFFIX,destinysfavored.xyz
 DOMAIN-SUFFIX,destroyedspear.com
 DOMAIN-SUFFIX,destructionhybrids.com
 DOMAIN-SUFFIX,desugeng.xyz
@@ -15059,6 +15062,7 @@ DOMAIN-SUFFIX,geckoesdeport.top
 DOMAIN-SUFFIX,gecl.xyz
 DOMAIN-SUFFIX,geechaid.xyz
 DOMAIN-SUFFIX,geedoovu.net
+DOMAIN-SUFFIX,geegleshoaph.com
 DOMAIN-SUFFIX,geeksundigne.com
 DOMAIN-SUFFIX,geerairu.net
 DOMAIN-SUFFIX,geethaihoa.com
@@ -16919,6 +16923,7 @@ DOMAIN-SUFFIX,highestgaugers.com
 DOMAIN-SUFFIX,higheurest.com
 DOMAIN-SUFFIX,highjackclients.com
 DOMAIN-SUFFIX,highjournalistbargain.com
+DOMAIN-SUFFIX,highlevelbite.com
 DOMAIN-SUFFIX,highlypersevereenrapture.com
 DOMAIN-SUFFIX,highlyrecomemu.info
 DOMAIN-SUFFIX,highmaidfhr.com
@@ -24816,6 +24821,7 @@ DOMAIN-SUFFIX,oacaighy.com
 DOMAIN-SUFFIX,oacfxrqghamyaq.com
 DOMAIN-SUFFIX,oachailo.net
 DOMAIN-SUFFIX,oackoubs.com
+DOMAIN-SUFFIX,oackoulimtoo.com
 DOMAIN-SUFFIX,oadrojoa.net
 DOMAIN-SUFFIX,oadsaurs.net
 DOMAIN-SUFFIX,oadsouzi.net
@@ -26173,6 +26179,7 @@ DOMAIN-SUFFIX,oypjpbthhxhyuvq.com
 DOMAIN-SUFFIX,oypucuqsuwabnxy.com
 DOMAIN-SUFFIX,oysterexhalereview.com
 DOMAIN-SUFFIX,oysterfoxfoe.com
+DOMAIN-SUFFIX,oyuvcqmqjyrqd.com
 DOMAIN-SUFFIX,oywzrri.com
 DOMAIN-SUFFIX,oyxctgotabvk.com
 DOMAIN-SUFFIX,oyyihttyklfwcgy.xyz
@@ -28149,6 +28156,7 @@ DOMAIN-SUFFIX,professionallywealthy.com
 DOMAIN-SUFFIX,professionalsly.com
 DOMAIN-SUFFIX,professionalswebcheck.com
 DOMAIN-SUFFIX,professmeeting.com
+DOMAIN-SUFFIX,professorrevealingoctopus.com
 DOMAIN-SUFFIX,professtrespass.com
 DOMAIN-SUFFIX,proffering.xyz
 DOMAIN-SUFFIX,profi-para.com
@@ -41634,6 +41642,7 @@ DOMAIN-SUFFIX,ca3d.site
 DOMAIN-SUFFIX,ca9246.xyz
 DOMAIN-SUFFIX,caa2c4.xyz
 DOMAIN-SUFFIX,d84bc26d.site
+DOMAIN-SUFFIX,d980ed.xyz
 DOMAIN-SUFFIX,e076.xyz
 DOMAIN-SUFFIX,e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 DOMAIN-SUFFIX,ec44.site
@@ -47383,6 +47392,7 @@ DOMAIN-SUFFIX,dataunlocker.com
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,affex.org
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,temp.twicomi.com
 DOMAIN-SUFFIX,tracking.carsales.com.au
 DOMAIN-SUFFIX,beacon.nc-net.or.jp
 DOMAIN-SUFFIX,lhe-beacon.team-rec.jp
@@ -51045,9 +51055,11 @@ DOMAIN-SUFFIX,blacktri.com
 DOMAIN-SUFFIX,businessclick.ch
 DOMAIN-SUFFIX,content-garden.com
 DOMAIN-SUFFIX,contiamo.com
+DOMAIN-SUFFIX,counter-zaehler.de
 DOMAIN-SUFFIX,dcmn.io
 DOMAIN-SUFFIX,dl8.me
 DOMAIN-SUFFIX,etrust.eu
+DOMAIN-SUFFIX,fast-counter.net
 DOMAIN-SUFFIX,giga-abs.de
 DOMAIN-SUFFIX,haymarketstat.de
 DOMAIN-SUFFIX,hstrck.com
@@ -51442,6 +51454,7 @@ DOMAIN-SUFFIX,tracking.webtradecenter.com
 DOMAIN-SUFFIX,trecker.aklamio.com
 DOMAIN-SUFFIX,vtrtl.de
 DOMAIN-SUFFIX,webcounter.goweb.de
+DOMAIN-SUFFIX,wranalytics.wildrocket.io
 DOMAIN-SUFFIX,x.bloggurat.net
 DOMAIN-SUFFIX,zs.dhl.de
 DOMAIN-SUFFIX,affiliation.planethoster.info
@@ -53822,6 +53835,7 @@ DOMAIN-SUFFIX,vw.onlinia.net
 DOMAIN-SUFFIX,exchange.informer.ua
 DOMAIN-SUFFIX,hdvmyo.com
 DOMAIN-SUFFIX,adsy.mail.bg
+DOMAIN-SUFFIX,ad-service.shop
 DOMAIN-SUFFIX,yonderdim.com
 DOMAIN-SUFFIX,gr.hdream.cfd
 DOMAIN-SUFFIX,kriptoparahaber.care
@@ -54592,6 +54606,7 @@ DOMAIN-SUFFIX,aluhutmafia.de
 DOMAIN-SUFFIX,bd742.com
 DOMAIN-SUFFIX,cdu-offline.de
 DOMAIN-SUFFIX,dierussensindschuld.de
+DOMAIN-SUFFIX,fantecio.com
 DOMAIN-SUFFIX,gayads.biz
 DOMAIN-SUFFIX,gema-online.de
 DOMAIN-SUFFIX,holyjesus.de
@@ -54599,6 +54614,7 @@ DOMAIN-SUFFIX,spd-spenden.de
 DOMAIN-SUFFIX,swissadserver.ch
 DOMAIN-SUFFIX,wirverkaufennichts.de
 DOMAIN-SUFFIX,wixnm.com
+DOMAIN-SUFFIX,zazufi.com
 DOMAIN-SUFFIX,4rm.de
 DOMAIN-SUFFIX,a.partner-versicherung.de
 DOMAIN-SUFFIX,a3h.de
@@ -54839,7 +54855,6 @@ DOMAIN-SUFFIX,yoomedia.de
 DOMAIN-SUFFIX,youspacko.com
 DOMAIN-SUFFIX,z0a.de
 DOMAIN-SUFFIX,za-ads.de
-DOMAIN-SUFFIX,zazufi.com
 DOMAIN-SUFFIX,zieltracker.de
 DOMAIN-SUFFIX,zuppelzockt.com
 DOMAIN-SUFFIX,zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
@@ -55400,6 +55415,7 @@ DOMAIN-SUFFIX,www.aservice.tools
 DOMAIN-SUFFIX,www.blogtoplist.se
 DOMAIN-SUFFIX,www.championsverige.com.se
 DOMAIN-SUFFIX,www.fakturino.se
+DOMAIN-SUFFIX,www.filasverigese.com
 DOMAIN-SUFFIX,www.guesssverige.com.se
 DOMAIN-SUFFIX,www.kundvisaren.se
 DOMAIN-SUFFIX,www.mymediaindex.com
@@ -61696,6 +61712,15 @@ DOMAIN-SUFFIX,hgcgnfe.icu
 DOMAIN-SUFFIX,07dy.cc
 DOMAIN-SUFFIX,nuxwlc.cn
 DOMAIN-SUFFIX,ta20k.xyz
+DOMAIN-SUFFIX,awunkse72.shop
+DOMAIN-SUFFIX,cergbtb36.shop
+DOMAIN-SUFFIX,gaochen12.top
+DOMAIN-SUFFIX,azsqkrc.icu
+DOMAIN-SUFFIX,wgidskie.top
+DOMAIN-SUFFIX,bqnxff.xyz
+DOMAIN-SUFFIX,wacisi.xyz
+DOMAIN-SUFFIX,dpzplb.xyz
+DOMAIN-SUFFIX,fredum.cn
 DOMAIN-SUFFIX,bpxbzps.xyz
 DOMAIN-SUFFIX,zuvbzl.xyz
 DOMAIN-SUFFIX,zwdtvx.xyz
