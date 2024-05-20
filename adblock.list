@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-05-19 06:07:33
-# 数量：73764条
+# 更新：2024-05-20 06:08:31
+# 数量：73773条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,lwjje.com
@@ -12013,6 +12013,7 @@ DOMAIN-SUFFIX,edvxygh.com
 DOMAIN-SUFFIX,edwate.com
 DOMAIN-SUFFIX,edwfdhkgnx.com
 DOMAIN-SUFFIX,edxfquupejhbrey.com
+DOMAIN-SUFFIX,edzwmobmj.com
 DOMAIN-SUFFIX,ee625e4b1d.com
 DOMAIN-SUFFIX,ee6a35c1eeee.com
 DOMAIN-SUFFIX,eeab79bf10.com
@@ -38187,7 +38188,6 @@ DOMAIN-SUFFIX,wgbwlgzthobp.com
 DOMAIN-SUFFIX,wgchrrammzv.com
 DOMAIN-SUFFIX,wghzbgmjpyig.com
 DOMAIN-SUFFIX,wgkggub.com
-DOMAIN-SUFFIX,wgplayer.com
 DOMAIN-SUFFIX,wgpsjcpdulptl.com
 DOMAIN-SUFFIX,wgsxteihr.com
 DOMAIN-SUFFIX,wgxpirautgxpap.com
@@ -41686,6 +41686,7 @@ DOMAIN-SUFFIX,4e04f7.xyz
 DOMAIN-SUFFIX,4e55.xyz
 DOMAIN-SUFFIX,4e68.xyz
 DOMAIN-SUFFIX,58e0.site
+DOMAIN-SUFFIX,634369.xyz
 DOMAIN-SUFFIX,657475b7-0095-478d-90d4-96ce440604f9.online
 DOMAIN-SUFFIX,68646f.xyz
 DOMAIN-SUFFIX,7e809ed7-e553-4e29-acb1-4e3c0e986562.site
@@ -41927,6 +41928,7 @@ DOMAIN-SUFFIX,toplist.raidrush.ws
 DOMAIN-SUFFIX,track.10bet.com
 DOMAIN-SUFFIX,trendads.reactivebetting.com
 DOMAIN-SUFFIX,typicalstudent.org
+DOMAIN-SUFFIX,universal.wgplayer.com
 DOMAIN-SUFFIX,vice-publishers-cdn.vice.com
 DOMAIN-SUFFIX,video-ads.a2z.com
 DOMAIN-SUFFIX,videosvc.ezoic.com
@@ -41946,6 +41948,7 @@ DOMAIN-SUFFIX,widgets.progrids.com
 DOMAIN-SUFFIX,widgets.tree.com
 DOMAIN-SUFFIX,winonexd.b-cdn.net
 DOMAIN-SUFFIX,wixlabs-adsense-v3.uc.r.appspot.com
+DOMAIN-SUFFIX,wpb.wgplayer.com
 DOMAIN-SUFFIX,yield-op-idsync.live.streamtheworld.com
 DOMAIN-SUFFIX,zv.7vid.net
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
@@ -56250,6 +56253,7 @@ DOMAIN-SUFFIX,ads.phunuonline.com.vn
 DOMAIN-SUFFIX,ads.phunusuckhoe.vn
 DOMAIN-SUFFIX,ads.phunuvagiadinh.vn
 DOMAIN-SUFFIX,ads.salemall.vn
+DOMAIN-SUFFIX,ads.seovietnam.pro
 DOMAIN-SUFFIX,ads.sexyland.vn
 DOMAIN-SUFFIX,ads.songmoi.vn
 DOMAIN-SUFFIX,ads.suckhoegiadinh.com.vn
@@ -61830,6 +61834,11 @@ DOMAIN-SUFFIX,ugidskit.top
 DOMAIN-SUFFIX,999fb.cn
 DOMAIN-SUFFIX,ltfpbp.xyz
 DOMAIN-SUFFIX,foscvbu.icu
+DOMAIN-SUFFIX,ajkggo.xyz
+DOMAIN-SUFFIX,kzpizjp.cn
+DOMAIN-SUFFIX,ogidskik.top
+DOMAIN-SUFFIX,yhimpnr.icu
+DOMAIN-SUFFIX,tdhnxf.xyz
 DOMAIN-SUFFIX,zuvbzl.xyz
 DOMAIN-SUFFIX,zwdtvx.xyz
 DOMAIN-SUFFIX,zwxxcb.icu
