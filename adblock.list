@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-06-23 06:08:41
-# 数量：74684条
+# 更新：2024-06-24 06:09:14
+# 数量：74717条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,aigheebsu.net
@@ -55556,6 +55556,7 @@ DOMAIN-SUFFIX,rpofsweden.com
 DOMAIN-SUFFIX,rpofsweden.se
 DOMAIN-SUFFIX,rum-http-intake.logs.datadoghq.eu
 DOMAIN-SUFFIX,rum-reporter-prod.exp.bn.nr
+DOMAIN-SUFFIX,s.cartbooster.io
 DOMAIN-SUFFIX,s.ntv.io
 DOMAIN-SUFFIX,sak.userreport.com
 DOMAIN-SUFFIX,salesbooster.ai
@@ -56493,6 +56494,7 @@ DOMAIN-SUFFIX,adchoice.com
 DOMAIN-SUFFIX,adclient.vietnamnetjsc.vn
 DOMAIN-SUFFIX,addlog.thuvienphapluat.vn
 DOMAIN-SUFFIX,addtop.trangvangvietnam.com
+DOMAIN-SUFFIX,adhub.mobifone.vn
 DOMAIN-SUFFIX,adjusts.info
 DOMAIN-SUFFIX,adm.phunusuckhoe.vn
 DOMAIN-SUFFIX,adm.phunuvagiadinh.vn
@@ -57412,6 +57414,7 @@ DOMAIN-SUFFIX,cskh-the-vpbank.com
 DOMAIN-SUFFIX,cskh-vib-canhan.com
 DOMAIN-SUFFIX,cskh-vib.ho-tro-tin-dung-ca-nhan.com
 DOMAIN-SUFFIX,cskh-vib.nang-han-muc-the-visa.com
+DOMAIN-SUFFIX,cskhcanhanhd.com
 DOMAIN-SUFFIX,cskhdienmayxanh.com
 DOMAIN-SUFFIX,cskhdienmayxanhvn.com
 DOMAIN-SUFFIX,cskhmayxanh.com
@@ -57431,6 +57434,7 @@ DOMAIN-SUFFIX,currencyconverterbanking.weebly.com
 DOMAIN-SUFFIX,cvietcombank.com
 DOMAIN-SUFFIX,da2323.com
 DOMAIN-SUFFIX,da6555.com
+DOMAIN-SUFFIX,da8975.com
 DOMAIN-SUFFIX,dadw11.com
 DOMAIN-SUFFIX,dadw22.com
 DOMAIN-SUFFIX,dadw55.com
@@ -57455,6 +57459,7 @@ DOMAIN-SUFFIX,dangkytinchapshinhan.xyz
 DOMAIN-SUFFIX,dangkytruyenhinhcap.com
 DOMAIN-SUFFIX,dangkyvay-bank247.net
 DOMAIN-SUFFIX,dangkyvaybidv.com
+DOMAIN-SUFFIX,dangnhaphoso.com
 DOMAIN-SUFFIX,dantri.live
 DOMAIN-SUFFIX,dantrii.info
 DOMAIN-SUFFIX,daohannganhang.click
@@ -57547,6 +57552,7 @@ DOMAIN-SUFFIX,dienmayxanhtrungtam.com
 DOMAIN-SUFFIX,dienthoaiviet.net
 DOMAIN-SUFFIX,differentia.ru
 DOMAIN-SUFFIX,disorderstatus.ru
+DOMAIN-SUFFIX,dkmjxh.info
 DOMAIN-SUFFIX,dmxprovip.com
 DOMAIN-SUFFIX,dmxvip.com
 DOMAIN-SUFFIX,dns-log.d-n-s.org.uk
@@ -57571,6 +57577,7 @@ DOMAIN-SUFFIX,dtdvmuadong-lienquan.com
 DOMAIN-SUFFIX,duchessefit.com
 DOMAIN-SUFFIX,duthithanhlich2021.weebly.com
 DOMAIN-SUFFIX,duyendangaodaivietnam2021.weebly.com
+DOMAIN-SUFFIX,duyetdonlazada.com
 DOMAIN-SUFFIX,dv-ca-nhan-vpbank.com
 DOMAIN-SUFFIX,dv-nang-cap-vpbank.com
 DOMAIN-SUFFIX,dvdienmayxanh.com
@@ -57595,6 +57602,7 @@ DOMAIN-SUFFIX,ebayshopnet.com
 DOMAIN-SUFFIX,ebeuboay.cc
 DOMAIN-SUFFIX,ebmarketingshops.com
 DOMAIN-SUFFIX,ebuyy.shop
+DOMAIN-SUFFIX,ecishh.info
 DOMAIN-SUFFIX,edbythe67ak.cfd
 DOMAIN-SUFFIX,edunetworkonlinevietnam.com
 DOMAIN-SUFFIX,edunetworkvietnam.com.vn
@@ -57667,6 +57675,7 @@ DOMAIN-SUFFIX,fe-shop.cc
 DOMAIN-SUFFIX,fe.lwcvn.com
 DOMAIN-SUFFIX,feacbookk.com
 DOMAIN-SUFFIX,fecabookk.com
+DOMAIN-SUFFIX,fefqkn.org
 DOMAIN-SUFFIX,ff-garena-membership-2021.com
 DOMAIN-SUFFIX,ff-garena-membershipff.com
 DOMAIN-SUFFIX,ff-garena-sukien.com
@@ -57845,6 +57854,7 @@ DOMAIN-SUFFIX,giaodichpostructuyenvn.com
 DOMAIN-SUFFIX,giaodichquettindungpos247-online.com
 DOMAIN-SUFFIX,giaodichquettindungvn-online.com
 DOMAIN-SUFFIX,giaodichquocte-wumoney365.weebly.com
+DOMAIN-SUFFIX,giaodichquoctes.com
 DOMAIN-SUFFIX,giaodichtiente247ipay.weebly.com
 DOMAIN-SUFFIX,giaodichvidientu.com.vn
 DOMAIN-SUFFIX,giaothuongvietnhat.org
@@ -57887,6 +57897,7 @@ DOMAIN-SUFFIX,gpay247-mp0s-quetthetindung.com
 DOMAIN-SUFFIX,gplxgovn.vn
 DOMAIN-SUFFIX,greatvay.xyz
 DOMAIN-SUFFIX,greenvay8.com
+DOMAIN-SUFFIX,griefcube.cc
 DOMAIN-SUFFIX,grn-membershipff.com
 DOMAIN-SUFFIX,grn-memberships.com
 DOMAIN-SUFFIX,grn-memberships2021.com
@@ -58415,6 +58426,7 @@ DOMAIN-SUFFIX,mail.bomloginset.com
 DOMAIN-SUFFIX,mail.pcygphil.com
 DOMAIN-SUFFIX,mail.simpletra.com
 DOMAIN-SUFFIX,mail.theworkguyoo.com
+DOMAIN-SUFFIX,main-card-vib.com
 DOMAIN-SUFFIX,maivang.vip
 DOMAIN-SUFFIX,maivang.xyz
 DOMAIN-SUFFIX,mallshopvn.vip
@@ -58438,11 +58450,13 @@ DOMAIN-SUFFIX,mbbankmn.com
 DOMAIN-SUFFIX,mbbankn.com
 DOMAIN-SUFFIX,mbbffn.online
 DOMAIN-SUFFIX,mbcanhan-cskh.com
+DOMAIN-SUFFIX,mbdk99.com
 DOMAIN-SUFFIX,mbdkb.com
 DOMAIN-SUFFIX,mbfic-plus.com
 DOMAIN-SUFFIX,mbfn-fic.com
 DOMAIN-SUFFIX,mbtk-bank.com
 DOMAIN-SUFFIX,mcfa11.com
+DOMAIN-SUFFIX,mcnodes.zapto.org
 DOMAIN-SUFFIX,mcredit.vaynhanh-bankcredits.com
 DOMAIN-SUFFIX,meetamate.site
 DOMAIN-SUFFIX,member-gaarena.com
@@ -58599,6 +58613,7 @@ DOMAIN-SUFFIX,moneygram-nhantien23quoctwe.weebly.com
 DOMAIN-SUFFIX,moneygram24hh.weebly.com
 DOMAIN-SUFFIX,moneyhay.net
 DOMAIN-SUFFIX,moneyloan-vn.com
+DOMAIN-SUFFIX,moneytracking137.com
 DOMAIN-SUFFIX,moneyveo.vn
 DOMAIN-SUFFIX,moneyvi.xyz
 DOMAIN-SUFFIX,moneywallet.cf
@@ -58681,6 +58696,7 @@ DOMAIN-SUFFIX,myshopee7.vip
 DOMAIN-SUFFIX,mysp.ac
 DOMAIN-SUFFIX,nalhajarm.cfd
 DOMAIN-SUFFIX,nang-cap-hang-vvip-vib.com
+DOMAIN-SUFFIX,nang-cap-ocare-vib.com
 DOMAIN-SUFFIX,nang-cap-online-vpbank.com
 DOMAIN-SUFFIX,nang-cap-vip-vpbank.com
 DOMAIN-SUFFIX,nang-han-muc-ido-vpbank.com
@@ -59199,6 +59215,7 @@ DOMAIN-SUFFIX,rest.redirectme.net
 DOMAIN-SUFFIX,restless.su
 DOMAIN-SUFFIX,restlesz.su
 DOMAIN-SUFFIX,reviewphim.pro
+DOMAIN-SUFFIX,rgbppxtvieoytnoej.org
 DOMAIN-SUFFIX,rhighest.cfd
 DOMAIN-SUFFIX,rich678.com
 DOMAIN-SUFFIX,rickmomo.fun
@@ -59269,6 +59286,7 @@ DOMAIN-SUFFIX,sdo2435.com
 DOMAIN-SUFFIX,sdo8357.com
 DOMAIN-SUFFIX,sdqwf.ga
 DOMAIN-SUFFIX,seabank-nganhanghanoi.com
+DOMAIN-SUFFIX,sendotv.com
 DOMAIN-SUFFIX,sendovip.com
 DOMAIN-SUFFIX,sendovn.com
 DOMAIN-SUFFIX,senopaee.com
@@ -59318,6 +59336,7 @@ DOMAIN-SUFFIX,shoopency.com
 DOMAIN-SUFFIX,shoopvv.com
 DOMAIN-SUFFIX,shoosse.com
 DOMAIN-SUFFIX,shop-ama-zon.net
+DOMAIN-SUFFIX,shop.global-selling.top
 DOMAIN-SUFFIX,shop146.com
 DOMAIN-SUFFIX,shop2727.com
 DOMAIN-SUFFIX,shop3001.com
@@ -59775,6 +59794,7 @@ DOMAIN-SUFFIX,sopper68.com
 DOMAIN-SUFFIX,sos-icloud.com
 DOMAIN-SUFFIX,sotuyenvcb.vietcombanker.com
 DOMAIN-SUFFIX,sp15569p.com
+DOMAIN-SUFFIX,sp1663p.com
 DOMAIN-SUFFIX,sp315693vn.com
 DOMAIN-SUFFIX,sp5188.com
 DOMAIN-SUFFIX,sp56788.com
@@ -59962,6 +59982,7 @@ DOMAIN-SUFFIX,tdkd02.com
 DOMAIN-SUFFIX,tdkd03.com
 DOMAIN-SUFFIX,tdkd07.com
 DOMAIN-SUFFIX,tdkd08.com
+DOMAIN-SUFFIX,tdkt00.com
 DOMAIN-SUFFIX,tdkt01.com
 DOMAIN-SUFFIX,tdtc.shop
 DOMAIN-SUFFIX,techcombank.ngan-hang.net
@@ -59981,6 +60002,7 @@ DOMAIN-SUFFIX,tfi6678.com
 DOMAIN-SUFFIX,thang365g.com
 DOMAIN-SUFFIX,thanhphomomo.com
 DOMAIN-SUFFIX,thanhtoanlienquan.com
+DOMAIN-SUFFIX,thanhtrapcrt.online
 DOMAIN-SUFFIX,thanquay247.vip
 DOMAIN-SUFFIX,thao88.com
 DOMAIN-SUFFIX,thebank247.ga
@@ -60006,6 +60028,7 @@ DOMAIN-SUFFIX,thirdcitybank.com
 DOMAIN-SUFFIX,thisinhthanhlich.cf
 DOMAIN-SUFFIX,thisinhthanhlich.com
 DOMAIN-SUFFIX,thisinhthanhlich2022.com
+DOMAIN-SUFFIX,thisinhthanhlich2024.com
 DOMAIN-SUFFIX,thongtindonhang.com
 DOMAIN-SUFFIX,thpthuynhthuckhang.edu.vn
 DOMAIN-SUFFIX,thsdbj.com
@@ -60142,6 +60165,7 @@ DOMAIN-SUFFIX,tinchap-nganhang.online
 DOMAIN-SUFFIX,tinchap-techcombank.store
 DOMAIN-SUFFIX,tinchaphd.com
 DOMAIN-SUFFIX,tinchapluong-techcombank.xyz
+DOMAIN-SUFFIX,tinchapshinhan.online
 DOMAIN-SUFFIX,tinchapvcb-vn.com
 DOMAIN-SUFFIX,tinchapvietcombank24h.com
 DOMAIN-SUFFIX,tindung-online.com
@@ -60198,6 +60222,7 @@ DOMAIN-SUFFIX,tmko2.com
 DOMAIN-SUFFIX,tmko3.com
 DOMAIN-SUFFIX,toaaikhoongnhho-352614.click
 DOMAIN-SUFFIX,tochucthetindung.com
+DOMAIN-SUFFIX,tokyueiklbphqgupc.org
 DOMAIN-SUFFIX,tomo5933.vip
 DOMAIN-SUFFIX,tomo5963.vip
 DOMAIN-SUFFIX,tongdaicaptruyenhinh.online
@@ -60588,6 +60613,7 @@ DOMAIN-SUFFIX,viashopee.com
 DOMAIN-SUFFIX,viaviet03.mobie.in
 DOMAIN-SUFFIX,vib-bank.com
 DOMAIN-SUFFIX,vib-mydiamon-khcn-uutien-vnc1.com
+DOMAIN-SUFFIX,vib-nangcap.com
 DOMAIN-SUFFIX,vib-tindung-khcn.com
 DOMAIN-SUFFIX,vib-tindung.click
 DOMAIN-SUFFIX,vib-tindung.online
@@ -60939,6 +60965,7 @@ DOMAIN-SUFFIX,vn88khuyenmai.life
 DOMAIN-SUFFIX,vn88khuyenmai.site
 DOMAIN-SUFFIX,vn88khuyenmai.space
 DOMAIN-SUFFIX,vn88khuyenmai.store
+DOMAIN-SUFFIX,vn999mall.vip
 DOMAIN-SUFFIX,vnah567.com
 DOMAIN-SUFFIX,vnambzuon36sc.vip
 DOMAIN-SUFFIX,vnbitcoin.cc
@@ -61076,6 +61103,7 @@ DOMAIN-SUFFIX,vpb-nanghanmuc.com
 DOMAIN-SUFFIX,vpb-nanghanmuc.online
 DOMAIN-SUFFIX,vpbank-vaytien.com
 DOMAIN-SUFFIX,vpbank.appvest.vn
+DOMAIN-SUFFIX,vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 DOMAIN-SUFFIX,vpbankvn.com
 DOMAIN-SUFFIX,vpbban.com
 DOMAIN-SUFFIX,vpbbank.com
@@ -61241,6 +61269,7 @@ DOMAIN-SUFFIX,zalorashop.com
 DOMAIN-SUFFIX,zeroshop.cc
 DOMAIN-SUFFIX,zingmp3.pro
 DOMAIN-SUFFIX,zingshop.net
+DOMAIN-SUFFIX,zla653.top
 DOMAIN-SUFFIX,zla963.top
 DOMAIN-SUFFIX,zmomo.cc
 DOMAIN-SUFFIX,znavidsde.cfd
@@ -61255,6 +61284,15 @@ DOMAIN-SUFFIX,saeo.cn
 DOMAIN-SUFFIX,edoshbw.top
 DOMAIN-SUFFIX,blciqbk.icu
 DOMAIN-SUFFIX,ycgfdf.cn
+DOMAIN-SUFFIX,birtw.cn
+DOMAIN-SUFFIX,fmjjvb.xyz
+DOMAIN-SUFFIX,awyuge.xyz
+DOMAIN-SUFFIX,ddnzpr.xyz
+DOMAIN-SUFFIX,uessnah.icu
+DOMAIN-SUFFIX,wdoshbe.top
+DOMAIN-SUFFIX,663008888.com
+DOMAIN-SUFFIX,uutytp.com
+DOMAIN-SUFFIX,w0057.com
 DOMAIN-SUFFIX,8878tp.com
 DOMAIN-SUFFIX,ccccc66kkkkk.com
 DOMAIN-SUFFIX,ccccc78kkkkk.com
@@ -67508,12 +67546,7 @@ DOMAIN-SUFFIX,mogo-crypto.net
 DOMAIN-SUFFIX,tinancefa.org
 DOMAIN-SUFFIX,laxsson.com
 DOMAIN-SUFFIX,tradergpt.ai
-DOMAIN-SUFFIX,wibodir.com
-DOMAIN-SUFFIX,eh-ra-z-se-na.org
-DOMAIN-SUFFIX,ebl-hot.com
-DOMAIN-SUFFIX,iranuschsahm.sbs
-DOMAIN-SUFFIX,seownae.space
-DOMAIN-SUFFIX,maeshhtr.com
+DOMAIN-SUFFIX,meashstis.ir
 DOMAIN-SUFFIX,middlepoint.co.kr
 DOMAIN-SUFFIX,authanalysis.com
 DOMAIN-SUFFIX,planmix.co.kr
