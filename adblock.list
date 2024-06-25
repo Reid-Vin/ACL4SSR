@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-06-24 06:09:14
-# 数量：74717条
+# 更新：2024-06-25 06:08:57
+# 数量：74737条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,aigheebsu.net
@@ -1073,7 +1073,6 @@ DOMAIN-SUFFIX,Furykms.com
 DOMAIN-SUFFIX,kmsofficial.org
 DOMAIN-SUFFIX,Kmspico-official.org
 DOMAIN-SUFFIX,Yasir252.com
-DOMAIN-SUFFIX,karanpc.com
 DOMAIN-SUFFIX,getintopc.today
 DOMAIN-SUFFIX,stripe.rs-1028-a.com
 DOMAIN-SUFFIX,hub.fghtem.com
@@ -4510,6 +4509,7 @@ DOMAIN-SUFFIX,aphasicstoray.space
 DOMAIN-SUFFIX,aphemicstull.com
 DOMAIN-SUFFIX,aphidsapprend.top
 DOMAIN-SUFFIX,aphidsclee.com
+DOMAIN-SUFFIX,api168168.com
 DOMAIN-SUFFIX,apiculirackman.top
 DOMAIN-SUFFIX,apidata.info
 DOMAIN-SUFFIX,apiecelee.com
@@ -5855,6 +5855,7 @@ DOMAIN-SUFFIX,bctagb56.xyz
 DOMAIN-SUFFIX,bcuiaw.com
 DOMAIN-SUFFIX,bcxcxixcwprccn.com
 DOMAIN-SUFFIX,bczzwakqyae.com
+DOMAIN-SUFFIX,bd51static.com
 DOMAIN-SUFFIX,bdbffuwrxmsekjp.com
 DOMAIN-SUFFIX,bdbovbmfu.xyz
 DOMAIN-SUFFIX,bddc935c97.com
@@ -24469,6 +24470,7 @@ DOMAIN-SUFFIX,noupsube.xyz
 DOMAIN-SUFFIX,noureewo.com
 DOMAIN-SUFFIX,nourishinghorny.com
 DOMAIN-SUFFIX,nourishmentrespective.com
+DOMAIN-SUFFIX,nouveau-digital.com
 DOMAIN-SUFFIX,nouveaulain.com
 DOMAIN-SUFFIX,nouvhidtxryveg.com
 DOMAIN-SUFFIX,novadune.com
@@ -40673,6 +40675,7 @@ DOMAIN-SUFFIX,campaignlook.com
 DOMAIN-SUFFIX,capacitygrid.com
 DOMAIN-SUFFIX,caroda.io
 DOMAIN-SUFFIX,casino-zilla.com
+DOMAIN-SUFFIX,cazamba.com
 DOMAIN-SUFFIX,cb-content.com
 DOMAIN-SUFFIX,cdnreference.com
 DOMAIN-SUFFIX,charltonmedia.com
@@ -41476,6 +41479,7 @@ DOMAIN-SUFFIX,7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 DOMAIN-SUFFIX,7fc8.site
 DOMAIN-SUFFIX,814272c4.xyz
 DOMAIN-SUFFIX,8acc5c.site
+DOMAIN-SUFFIX,8b71e197.xyz
 DOMAIN-SUFFIX,8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 DOMAIN-SUFFIX,977878.xyz
 DOMAIN-SUFFIX,97b448.xyz
@@ -43852,6 +43856,7 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,api.sardine.ai
 DOMAIN-SUFFIX,dmp.one
 DOMAIN-SUFFIX,dmp-ai.ru
 DOMAIN-SUFFIX,dmp-one.ru
@@ -45084,7 +45089,6 @@ DOMAIN-SUFFIX,ubiquitousyard.com
 DOMAIN-SUFFIX,i.compendium.com
 DOMAIN-SUFFIX,statsp.fpop.net
 DOMAIN-SUFFIX,conductrics.com
-DOMAIN-SUFFIX,api.cazamba.com
 DOMAIN-SUFFIX,maliva-mcs.byteoversea.com
 DOMAIN-SUFFIX,sgali-mcs.byteoversea.com
 DOMAIN-SUFFIX,1dmp.io
@@ -54350,6 +54354,7 @@ DOMAIN-SUFFIX,yads.yahoo.co.jp
 DOMAIN-SUFFIX,yads.yjtag.yahoo.co.jp
 DOMAIN-SUFFIX,bance.jp
 DOMAIN-SUFFIX,maillovelove.net
+DOMAIN-SUFFIX,api.ad-platform.jmty.jp
 DOMAIN-SUFFIX,adserv2.suumo.jp
 DOMAIN-SUFFIX,ad.woman.mynavi.jp
 DOMAIN-SUFFIX,shop.vapelog.jp
@@ -61293,6 +61298,21 @@ DOMAIN-SUFFIX,wdoshbe.top
 DOMAIN-SUFFIX,663008888.com
 DOMAIN-SUFFIX,uutytp.com
 DOMAIN-SUFFIX,w0057.com
+DOMAIN-SUFFIX,doujs03.xyz
+DOMAIN-SUFFIX,6pznpz.com
+DOMAIN-SUFFIX,baijs02.xyz
+DOMAIN-SUFFIX,baijs03.xyz
+DOMAIN-SUFFIX,google-js-01.xyz
+DOMAIN-SUFFIX,google-js-02.xyz
+DOMAIN-SUFFIX,afopr.cn
+DOMAIN-SUFFIX,qdoshby.top
+DOMAIN-SUFFIX,eyislow.top
+DOMAIN-SUFFIX,miwfkm.xyz
+DOMAIN-SUFFIX,dnpalh.xyz
+DOMAIN-SUFFIX,cresqoirz.com
+DOMAIN-SUFFIX,mcighme.icu
+DOMAIN-SUFFIX,hvuqkb.cn
+DOMAIN-SUFFIX,wyisloe.top
 DOMAIN-SUFFIX,8878tp.com
 DOMAIN-SUFFIX,ccccc66kkkkk.com
 DOMAIN-SUFFIX,ccccc78kkkkk.com
