@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-07-05 06:09:42
-# 数量：73960条
+# 更新：2024-07-06 06:08:05
+# 数量：73984条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,xlvul.ajscdn.com
@@ -1270,6 +1270,7 @@ DOMAIN-SUFFIX,minutelight-1.online
 DOMAIN-SUFFIX,revrtb.com
 DOMAIN-SUFFIX,newbluetrue.xyz
 DOMAIN-SUFFIX,onemediawork.com
+DOMAIN-SUFFIX,advertising-cdn.dpgmedia.cloud
 DOMAIN-SUFFIX,d2lg0swrp15nsj.cloudfront.net
 DOMAIN-SUFFIX,dpeqm8xv96fuc.cloudfront.net
 DOMAIN-SUFFIX,d127s3e8wcl3q6.cloudfront.net
@@ -2080,6 +2081,7 @@ DOMAIN-SUFFIX,445d1bd01a.com
 DOMAIN-SUFFIX,44a9217f10.com
 DOMAIN-SUFFIX,44ffd27303.com
 DOMAIN-SUFFIX,452tapgn.de
+DOMAIN-SUFFIX,453130fa9e.com
 DOMAIN-SUFFIX,46186911.vtt
 DOMAIN-SUFFIX,46243b6252.com
 DOMAIN-SUFFIX,463fca0d34.com
@@ -7942,6 +7944,7 @@ DOMAIN-SUFFIX,cesebsir.xyz
 DOMAIN-SUFFIX,cesebtp.com
 DOMAIN-SUFFIX,cesiumsemboite.com
 DOMAIN-SUFFIX,cessationcorrectmist.com
+DOMAIN-SUFFIX,cessationhamster.com
 DOMAIN-SUFFIX,cessationrepulsivehumid.com
 DOMAIN-SUFFIX,cestibegster.com
 DOMAIN-SUFFIX,ceteembathe.com
@@ -13540,6 +13543,7 @@ DOMAIN-SUFFIX,ffxxdjucvk.com
 DOMAIN-SUFFIX,fgbthrsxnlo.xyz
 DOMAIN-SUFFIX,fgdxwpht.com
 DOMAIN-SUFFIX,fgfgnbmeieorr910.com
+DOMAIN-SUFFIX,fgigrmle.xyz
 DOMAIN-SUFFIX,fgijincfktbguv.xyz
 DOMAIN-SUFFIX,fgislklsqqytr.com
 DOMAIN-SUFFIX,fgisstdudch.com
@@ -14992,6 +14996,7 @@ DOMAIN-SUFFIX,ggrawwbi.xyz
 DOMAIN-SUFFIX,ggsbjzyo.com
 DOMAIN-SUFFIX,ggsfq.com
 DOMAIN-SUFFIX,ggvhbnkfc.com
+DOMAIN-SUFFIX,ggwifobvx.com
 DOMAIN-SUFFIX,ggxcoez.com
 DOMAIN-SUFFIX,ggxyyalrj.com
 DOMAIN-SUFFIX,ggzckmlts.com
@@ -24730,6 +24735,7 @@ DOMAIN-SUFFIX,ongoingverdictparalyzed.com
 DOMAIN-SUFFIX,ongrpdwwnvliao.xyz
 DOMAIN-SUFFIX,onibyezctus.com
 DOMAIN-SUFFIX,oninewsful.life
+DOMAIN-SUFFIX,onkafxtiqcu.com
 DOMAIN-SUFFIX,onkavst.com
 DOMAIN-SUFFIX,onlinedeltazone.online
 DOMAIN-SUFFIX,onlinepromousa.com
@@ -32348,6 +32354,7 @@ DOMAIN-SUFFIX,stealneitherfirearm.com
 DOMAIN-SUFFIX,stealthlockers.com
 DOMAIN-SUFFIX,steamdespicable.com
 DOMAIN-SUFFIX,steamjaws.com
+DOMAIN-SUFFIX,stedrits.xyz
 DOMAIN-SUFFIX,stedsous.xyz
 DOMAIN-SUFFIX,steefaulrouy.xyz
 DOMAIN-SUFFIX,steegnow.com
@@ -40588,6 +40595,7 @@ DOMAIN-SUFFIX,f816e81d.xyz
 DOMAIN-SUFFIX,f8a070.xyz
 DOMAIN-SUFFIX,fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz
 DOMAIN-SUFFIX,fbfec2.xyz
+DOMAIN-SUFFIX,fe30a5b4.xyz
 DOMAIN-SUFFIX,ad.lgappstv.com
 DOMAIN-SUFFIX,ad.nettvservices.com
 DOMAIN-SUFFIX,ads.samsung.com
@@ -42919,6 +42927,8 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,qobuz.surveysparrow.com
+DOMAIN-SUFFIX,srvr.dmvs-apac.com
 DOMAIN-SUFFIX,dash.zintrack.com
 DOMAIN-SUFFIX,revotas.com
 DOMAIN-SUFFIX,track.fluffyfalcon.com
@@ -46405,6 +46415,7 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,peach-analytics.vercel.app
 DOMAIN-SUFFIX,lfmetrics.loyalfans.com
 DOMAIN-SUFFIX,track.amebame.com
 DOMAIN-SUFFIX,pks-analytics.raenonx.cc
@@ -49672,6 +49683,7 @@ DOMAIN-SUFFIX,monitoring.iraiser.eu
 DOMAIN-SUFFIX,ms-trackingapi.phenompeople.com
 DOMAIN-SUFFIX,msadsscale.azureedge.net
 DOMAIN-SUFFIX,myscoop-tracking.googlecode.com
+DOMAIN-SUFFIX,native-ads-events-api.c4s-rd.services
 DOMAIN-SUFFIX,neocounter.neoworx-blog-tools.net
 DOMAIN-SUFFIX,net-tracker.notolytix.com
 DOMAIN-SUFFIX,netlify-rum.netlify.app
@@ -50712,6 +50724,7 @@ DOMAIN-SUFFIX,vppst.iltrovatore.it
 DOMAIN-SUFFIX,analyzer51.fc2.com
 DOMAIN-SUFFIX,bvr.snva.jp
 DOMAIN-SUFFIX,log.f-tra.com
+DOMAIN-SUFFIX,mail-count.matsui.co.jp
 DOMAIN-SUFFIX,omt.shinobi.jp
 DOMAIN-SUFFIX,reproio.com
 DOMAIN-SUFFIX,sync.shinobi.jp
@@ -50756,6 +50769,7 @@ DOMAIN-SUFFIX,segmentor.snowfox-ai.com
 DOMAIN-SUFFIX,statistic.audima.co
 DOMAIN-SUFFIX,stats.gridmidia.com.br
 DOMAIN-SUFFIX,tags.cmp.tail.digital
+DOMAIN-SUFFIX,track.zapimoveis.com.br
 DOMAIN-SUFFIX,tracker.tolvnow.com
 DOMAIN-SUFFIX,visit-prod-us.occa.ocs.oraclecloud.com
 DOMAIN-SUFFIX,webstats.sapo.pt
@@ -60423,6 +60437,16 @@ DOMAIN-SUFFIX,doujs06.xyz
 DOMAIN-SUFFIX,urtlist.top
 DOMAIN-SUFFIX,ortlisk.top
 DOMAIN-SUFFIX,dmnxkj.cn
+DOMAIN-SUFFIX,gw2cddpt2hao.cloud
+DOMAIN-SUFFIX,gw2cddpt2hao.site
+DOMAIN-SUFFIX,fgwuw.com
+DOMAIN-SUFFIX,febtzd.xyz
+DOMAIN-SUFFIX,olgcpwc.icu
+DOMAIN-SUFFIX,gsywcc.xyz
+DOMAIN-SUFFIX,iptuy.cn
+DOMAIN-SUFFIX,kyislod.top
+DOMAIN-SUFFIX,lijlrz.xyz
+DOMAIN-SUFFIX,lrtlisl.top
 DOMAIN-SUFFIX,0uyt5b.cn
 DOMAIN-SUFFIX,0v1syj.cn
 DOMAIN-SUFFIX,1028images.com
