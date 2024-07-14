@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-07-13 06:07:50
-# 数量：74278条
+# 更新：2024-07-14 06:10:34
+# 数量：74286条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,equipmentapes.com
@@ -5956,6 +5956,7 @@ DOMAIN-SUFFIX,bejolteonor.com
 DOMAIN-SUFFIX,beklefkiom.com
 DOMAIN-SUFFIX,beklinkor.com
 DOMAIN-SUFFIX,belamicash.com
+DOMAIN-SUFFIX,belatedsafety.pro
 DOMAIN-SUFFIX,belavoplay.com
 DOMAIN-SUFFIX,belaya2shu1ba1.com
 DOMAIN-SUFFIX,belengougha.com
@@ -31184,6 +31185,7 @@ DOMAIN-SUFFIX,shockadviceinsult.com
 DOMAIN-SUFFIX,shocked-failure.com
 DOMAIN-SUFFIX,shockedfoxed.top
 DOMAIN-SUFFIX,shocking-design.pro
+DOMAIN-SUFFIX,shocking-profile.pro
 DOMAIN-SUFFIX,shockingrobes.com
 DOMAIN-SUFFIX,shockingstrategynovelty.com
 DOMAIN-SUFFIX,shoeingneurone.com
@@ -37355,6 +37357,7 @@ DOMAIN-SUFFIX,whootapt.com
 DOMAIN-SUFFIX,whootascots.com
 DOMAIN-SUFFIX,whootkhankah.com
 DOMAIN-SUFFIX,whoppercreaky.com
+DOMAIN-SUFFIX,whopping-sea.com
 DOMAIN-SUFFIX,whopstriglot.com
 DOMAIN-SUFFIX,whoptoorsaub.com
 DOMAIN-SUFFIX,whorlysenior.top
@@ -40644,6 +40647,7 @@ DOMAIN-SUFFIX,11c7a3.xyz
 DOMAIN-SUFFIX,1350c3.xyz
 DOMAIN-SUFFIX,156fd4.xyz
 DOMAIN-SUFFIX,1a1fb6.xyz
+DOMAIN-SUFFIX,1c52e1e2.live
 DOMAIN-SUFFIX,1dd6e9ba.xyz
 DOMAIN-SUFFIX,1f6a725b.xyz
 DOMAIN-SUFFIX,20519a.xyz
@@ -49802,7 +49806,6 @@ DOMAIN-SUFFIX,k.streamrail.com
 DOMAIN-SUFFIX,k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 DOMAIN-SUFFIX,kalstats.kaltura.com
 DOMAIN-SUFFIX,l.fairblocker.com
-DOMAIN-SUFFIX,lambda-url.us-east-1.on.aws
 DOMAIN-SUFFIX,laurel.macrovision.com
 DOMAIN-SUFFIX,laurel.rovicorp.com
 DOMAIN-SUFFIX,leadtracking.plumvoice.com
@@ -60628,6 +60631,11 @@ DOMAIN-SUFFIX,zvay.online
 DOMAIN-SUFFIX,zvc.cc
 DOMAIN-SUFFIX,zvietcombank.com
 DOMAIN-SUFFIX,zvietnakello.weebly.com
+DOMAIN-SUFFIX,gkypgw.xyz
+DOMAIN-SUFFIX,lyislol.top
+DOMAIN-SUFFIX,tgrpzl.xyz
+DOMAIN-SUFFIX,kwiqcoh.icu
+DOMAIN-SUFFIX,lajevt.xyz
 DOMAIN-SUFFIX,57573zubo36833.com
 DOMAIN-SUFFIX,imgoss2255.top
 DOMAIN-SUFFIX,tupian88888.com
