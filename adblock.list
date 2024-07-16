@@ -3,10 +3,12 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-07-15 06:09:58
-# 数量：74348条
+# 更新：2024-07-16 06:09:34
+# 数量：74365条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,duxlveokumpmd.com
+DOMAIN-SUFFIX,stoogouy.net
 DOMAIN-SUFFIX,equipmentapes.com
 DOMAIN-SUFFIX,vg876yuj.click
 DOMAIN-SUFFIX,lmj8i.pro
@@ -2110,6 +2112,7 @@ DOMAIN-SUFFIX,493b98cce8bc1a2dd.com
 DOMAIN-SUFFIX,49b6b77e56.com
 DOMAIN-SUFFIX,4a136c118e.com
 DOMAIN-SUFFIX,4a167ec12d.com
+DOMAIN-SUFFIX,4a9517991d.com
 DOMAIN-SUFFIX,4b215e3bcf.com
 DOMAIN-SUFFIX,4b41484f8e.com
 DOMAIN-SUFFIX,4b6994dfa47cee4.com
@@ -16120,6 +16123,7 @@ DOMAIN-SUFFIX,gypufahuyhov.xyz
 DOMAIN-SUFFIX,gyudlffoisng.com
 DOMAIN-SUFFIX,gyxkmpf.com
 DOMAIN-SUFFIX,gzcxtuxgqjrhz.com
+DOMAIN-SUFFIX,gzglmoczfzf.com
 DOMAIN-SUFFIX,gzifhovadhf.com
 DOMAIN-SUFFIX,gzigudxidz.com
 DOMAIN-SUFFIX,gzkkbuvz.com
@@ -29540,6 +29544,7 @@ DOMAIN-SUFFIX,reyungojas.com
 DOMAIN-SUFFIX,rfaatlrdr.com
 DOMAIN-SUFFIX,rfeablduda.com
 DOMAIN-SUFFIX,rfhddwa.com
+DOMAIN-SUFFIX,rficarolnak.com
 DOMAIN-SUFFIX,rfihub.com
 DOMAIN-SUFFIX,rfihub.net
 DOMAIN-SUFFIX,rfimzurarqk.com
@@ -36073,6 +36078,7 @@ DOMAIN-SUFFIX,vauptaih.com
 DOMAIN-SUFFIX,vauthaud.net
 DOMAIN-SUFFIX,vavcashpop.com
 DOMAIN-SUFFIX,vavhhpkmfc.com
+DOMAIN-SUFFIX,vavuwetus.com
 DOMAIN-SUFFIX,vawauoggraokog.com
 DOMAIN-SUFFIX,vawsmoocah.com
 DOMAIN-SUFFIX,vax-boost.com
@@ -40955,6 +40961,7 @@ DOMAIN-SUFFIX,googleads.github.io
 DOMAIN-SUFFIX,hb.yahoo.net
 DOMAIN-SUFFIX,hbid.ams3.cdn.digitaloceanspaces.com
 DOMAIN-SUFFIX,hotwire-widget.dailywire.com
+DOMAIN-SUFFIX,hvdt8.chimeratool.com
 DOMAIN-SUFFIX,inbound-step.heavenmedia.com
 DOMAIN-SUFFIX,inrdeals.com
 DOMAIN-SUFFIX,join.megaphonetv.com
@@ -43115,6 +43122,7 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,sec.webeyez.com
 DOMAIN-SUFFIX,michiganrobotflower.com
 DOMAIN-SUFFIX,uid.mediacorp.sg
 DOMAIN-SUFFIX,exacttarget.com
@@ -46606,6 +46614,7 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,akn.analytics.autodesk.com
 DOMAIN-SUFFIX,marketing.dropbox.com
 DOMAIN-SUFFIX,ok88okg.infinityscans.net
 DOMAIN-SUFFIX,evt.24.com
@@ -56295,6 +56304,7 @@ DOMAIN-SUFFIX,v9banners.com
 DOMAIN-SUFFIX,vieon-tracking.vieon.vn
 DOMAIN-SUFFIX,vietbuzzad.com
 DOMAIN-SUFFIX,vietdorje.com
+DOMAIN-SUFFIX,vietnamdaily-log.trithuccuocsong.vn
 DOMAIN-SUFFIX,vlxx.host
 DOMAIN-SUFFIX,vnadssb.com
 DOMAIN-SUFFIX,web-analytic.ghtk.vn
@@ -60562,6 +60572,7 @@ DOMAIN-SUFFIX,w88banh.com
 DOMAIN-SUFFIX,walmartshoping.com
 DOMAIN-SUFFIX,warrenmoneytrader.com
 DOMAIN-SUFFIX,watch-online.49n7wqynho5u.top
+DOMAIN-SUFFIX,wbk9sohp.jdpz.link
 DOMAIN-SUFFIX,wdxzlv.org
 DOMAIN-SUFFIX,web-membbership-freefire-garena.com
 DOMAIN-SUFFIX,web-shopee-vn.com
@@ -60682,6 +60693,10 @@ DOMAIN-SUFFIX,zvay.online
 DOMAIN-SUFFIX,zvc.cc
 DOMAIN-SUFFIX,zvietcombank.com
 DOMAIN-SUFFIX,zvietnakello.weebly.com
+DOMAIN-SUFFIX,wnootzc.icu
+DOMAIN-SUFFIX,eiuoom.xyz
+DOMAIN-SUFFIX,bavotr.xyz
+DOMAIN-SUFFIX,jyfdbj.xyz
 DOMAIN-SUFFIX,gkypgw.xyz
 DOMAIN-SUFFIX,lyislol.top
 DOMAIN-SUFFIX,tgrpzl.xyz
@@ -60698,6 +60713,8 @@ DOMAIN-SUFFIX,xmhszb.xyz
 DOMAIN-SUFFIX,jasdz1.cn
 DOMAIN-SUFFIX,hyretuu.top
 DOMAIN-SUFFIX,iteyi.xyz
+DOMAIN-SUFFIX,aoiqa.top
+DOMAIN-SUFFIX,uaiqp.top
 DOMAIN-SUFFIX,57573zubo36833.com
 DOMAIN-SUFFIX,imgoss2255.top
 DOMAIN-SUFFIX,tupian88888.com
