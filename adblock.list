@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-07-27 06:07:47
-# 数量：73415条
+# 更新：2024-07-28 06:08:09
+# 数量：73426条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,ywmvppnlwwxkgt.com
@@ -2106,6 +2106,7 @@ DOMAIN-SUFFIX,407433bfc441.com
 DOMAIN-SUFFIX,4087aa0dc1.com
 DOMAIN-SUFFIX,40ceexln7929.com
 DOMAIN-SUFFIX,42a5d530ec972d8994.com
+DOMAIN-SUFFIX,42ce2b0955.com
 DOMAIN-SUFFIX,42d61f012e27b36d53.com
 DOMAIN-SUFFIX,42e228ef6f.com
 DOMAIN-SUFFIX,42jdbcb.de
@@ -5910,6 +5911,7 @@ DOMAIN-SUFFIX,beatifulllhistory.com
 DOMAIN-SUFFIX,beauartisticleaflets.com
 DOMAIN-SUFFIX,beautifulasaweath.info
 DOMAIN-SUFFIX,beautifullyinflux.com
+DOMAIN-SUFFIX,beauty1.xyz
 DOMAIN-SUFFIX,beautyspumoid.top
 DOMAIN-SUFFIX,beaverculbert.uno
 DOMAIN-SUFFIX,beavertron.com
@@ -12200,6 +12202,7 @@ DOMAIN-SUFFIX,effectivegatetocontent.com
 DOMAIN-SUFFIX,effectivemeasure.net
 DOMAIN-SUFFIX,effectiveperformanceformat.com
 DOMAIN-SUFFIX,effectiveperformancenetwork.com
+DOMAIN-SUFFIX,effectscouncilman.com
 DOMAIN-SUFFIX,effectsembower.top
 DOMAIN-SUFFIX,effectsglancefirmly.com
 DOMAIN-SUFFIX,effectslacybulb.com
@@ -12919,6 +12922,7 @@ DOMAIN-SUFFIX,eulal-cnr.com
 DOMAIN-SUFFIX,eulogiafilial.com
 DOMAIN-SUFFIX,eulogichebetic.top
 DOMAIN-SUFFIX,eulogyargin.top
+DOMAIN-SUFFIX,eunow4u.com
 DOMAIN-SUFFIX,eunzkvf.com
 DOMAIN-SUFFIX,euonymcalvous.com
 DOMAIN-SUFFIX,euosicjxjv.com
@@ -18894,8 +18898,10 @@ DOMAIN-SUFFIX,jauntycrystal.com
 DOMAIN-SUFFIX,jaupozup.xyz
 DOMAIN-SUFFIX,jaurouth.xyz
 DOMAIN-SUFFIX,java8.xyz
+DOMAIN-SUFFIX,javacid.fun
 DOMAIN-SUFFIX,javascriptcdnlive.com
 DOMAIN-SUFFIX,javgg.eu
+DOMAIN-SUFFIX,javmust.fun
 DOMAIN-SUFFIX,jawinfallible.com
 DOMAIN-SUFFIX,jawlookingchapter.com
 DOMAIN-SUFFIX,jawsspecific.com
@@ -21148,6 +21154,7 @@ DOMAIN-SUFFIX,local-flirt.com
 DOMAIN-SUFFIX,local-hot-dates.com
 DOMAIN-SUFFIX,localadbuy.com
 DOMAIN-SUFFIX,localedgemedia.com
+DOMAIN-SUFFIX,locallycompare.com
 DOMAIN-SUFFIX,locallyhastefowl.com
 DOMAIN-SUFFIX,localsnaughty.com
 DOMAIN-SUFFIX,locandalorries.com
@@ -41059,6 +41066,7 @@ DOMAIN-SUFFIX,8acc5c.site
 DOMAIN-SUFFIX,8b71e197.xyz
 DOMAIN-SUFFIX,8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online
 DOMAIN-SUFFIX,8eef59a5.live
+DOMAIN-SUFFIX,97496b9d.xyz
 DOMAIN-SUFFIX,977878.xyz
 DOMAIN-SUFFIX,97b448.xyz
 DOMAIN-SUFFIX,9814b49f.xyz
@@ -49292,7 +49300,6 @@ DOMAIN-SUFFIX,opentelemetry-collector.shared-services.us-east-1.general.prod.wil
 DOMAIN-SUFFIX,log-verify.mob.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,sg.log.ulivetv.net
-DOMAIN-SUFFIX,kr-col-ext.nelo.navercorp.com
 DOMAIN-SUFFIX,events.funnelish.com
 DOMAIN-SUFFIX,analytics.app.funnelish.com
 DOMAIN-SUFFIX,analytics.starmakerstudios.com
@@ -53896,7 +53903,6 @@ DOMAIN-SUFFIX,deliver.ads2.iid.jp
 DOMAIN-SUFFIX,sokmil-ad.com
 DOMAIN-SUFFIX,ads-connect.com
 DOMAIN-SUFFIX,affiliate.sonicsense.jp
-DOMAIN-SUFFIX,daotag.com
 DOMAIN-SUFFIX,ads.museum.or.jp
 DOMAIN-SUFFIX,cdn.lodeo.io
 DOMAIN-SUFFIX,seogreat.net
@@ -54973,6 +54979,7 @@ DOMAIN-SUFFIX,ai.idg.se
 DOMAIN-SUFFIX,alkemi.com.se
 DOMAIN-SUFFIX,ambassador.referralhero.com
 DOMAIN-SUFFIX,amd.sellingsimplified.net
+DOMAIN-SUFFIX,analys.landskrona.se
 DOMAIN-SUFFIX,analytics.allas.se
 DOMAIN-SUFFIX,analytics.apotekhjartat.se
 DOMAIN-SUFFIX,analytics.arvika.se
@@ -61081,9 +61088,13 @@ DOMAIN-SUFFIX,zvc.cc
 DOMAIN-SUFFIX,zvietcombank.com
 DOMAIN-SUFFIX,zvietnakello.weebly.com
 DOMAIN-SUFFIX,hwerilxu.top
+DOMAIN-SUFFIX,pgcciax.icu
+DOMAIN-SUFFIX,iwmigu.xyz
+DOMAIN-SUFFIX,fdtlfl.xyz
 DOMAIN-SUFFIX,t0sfe1.com
 DOMAIN-SUFFIX,shbzqkj.cn
 DOMAIN-SUFFIX,jz4u1.icu
+DOMAIN-SUFFIX,shbzogs.cn
 DOMAIN-SUFFIX,molpmh.xyz
 DOMAIN-SUFFIX,starredvs.com
 DOMAIN-SUFFIX,wnmoobz.icu
