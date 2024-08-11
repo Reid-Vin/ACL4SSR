@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-08-10 06:08:05
-# 数量：73883条
+# 更新：2024-08-11 06:09:53
+# 数量：73936条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,signamentswithded.com
@@ -6248,6 +6248,7 @@ DOMAIN-SUFFIX,bestcontentprogram.top
 DOMAIN-SUFFIX,bestcontentproject.top
 DOMAIN-SUFFIX,bestcontentprovider.top
 DOMAIN-SUFFIX,bestcontentservice.top
+DOMAIN-SUFFIX,bestcontentsite.top
 DOMAIN-SUFFIX,bestcontenttrade.top
 DOMAIN-SUFFIX,bestcontentuse.top
 DOMAIN-SUFFIX,bestcontentweb.top
@@ -36490,6 +36491,7 @@ DOMAIN-SUFFIX,vacationsoot.com
 DOMAIN-SUFFIX,vaccinationinvalidphosphate.com
 DOMAIN-SUFFIX,vaccinationwear.com
 DOMAIN-SUFFIX,vaccineconvictedseafood.com
+DOMAIN-SUFFIX,vacpukna.com
 DOMAIN-SUFFIX,vacuomedogeys.com
 DOMAIN-SUFFIX,vacwrite.com
 DOMAIN-SUFFIX,vadokfkulzr.com
@@ -41380,6 +41382,7 @@ DOMAIN-SUFFIX,b0eb63.xyz
 DOMAIN-SUFFIX,b0f2f18e.xyz
 DOMAIN-SUFFIX,b211.xyz
 DOMAIN-SUFFIX,b2bf222e.xyz
+DOMAIN-SUFFIX,b395bfcd.xyz
 DOMAIN-SUFFIX,b51475b8.xyz
 DOMAIN-SUFFIX,b59c.xyz
 DOMAIN-SUFFIX,b70456bf.xyz
@@ -43799,6 +43802,7 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,pageview.click
 DOMAIN-SUFFIX,viaklera.com
 DOMAIN-SUFFIX,app.kuvio.io
 DOMAIN-SUFFIX,data.media-lab.ai
@@ -47309,6 +47313,32 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,d.analyticsmania.com
+DOMAIN-SUFFIX,gtm.lercio.it
+DOMAIN-SUFFIX,gtm.mandesager.dk
+DOMAIN-SUFFIX,sgtm.anita.com
+DOMAIN-SUFFIX,sgtm.atg.se
+DOMAIN-SUFFIX,sgtm.blume2000.de
+DOMAIN-SUFFIX,sgtm.csas.cz
+DOMAIN-SUFFIX,sgtm.kaspersky.de
+DOMAIN-SUFFIX,sgtm.macrolibrarsi.it
+DOMAIN-SUFFIX,sgtm.mapei.com
+DOMAIN-SUFFIX,sgtm.milestonesys.com
+DOMAIN-SUFFIX,sgtm.mycall.no
+DOMAIN-SUFFIX,sgtm.myprotein.jp
+DOMAIN-SUFFIX,sgtm.ookla.com
+DOMAIN-SUFFIX,sgtm.open.ac.uk
+DOMAIN-SUFFIX,sgtm.tagmanageritalia.it
+DOMAIN-SUFFIX,sgtm.technikboerse.com
+DOMAIN-SUFFIX,sgtm.tennis-point.de
+DOMAIN-SUFFIX,sgtm.yubico.com
+DOMAIN-SUFFIX,ss.esade.edu
+DOMAIN-SUFFIX,sst.colemanfurniture.com
+DOMAIN-SUFFIX,sst.shopware.com
+DOMAIN-SUFFIX,stream.corporatefinanceinstitute.com
+DOMAIN-SUFFIX,tr.wbstraining.de
+DOMAIN-SUFFIX,trckng.dainese.com
+DOMAIN-SUFFIX,trckng.web55708.greatnet-hosting.de
 DOMAIN-SUFFIX,fresnel-events.vimeocdn.com
 DOMAIN-SUFFIX,evt.ilovepdf.com
 DOMAIN-SUFFIX,beacon.adelphic.com
@@ -57317,6 +57347,7 @@ DOMAIN-SUFFIX,baothanhnien.top
 DOMAIN-SUFFIX,baotienphong.net
 DOMAIN-SUFFIX,baotrixanhvn.com
 DOMAIN-SUFFIX,baoviet-vn.cc
+DOMAIN-SUFFIX,baovietn.vip
 DOMAIN-SUFFIX,barbecueappledos.pw
 DOMAIN-SUFFIX,bb9998.com
 DOMAIN-SUFFIX,bbankpower.com
@@ -57406,6 +57437,7 @@ DOMAIN-SUFFIX,cesareurope.com
 DOMAIN-SUFFIX,cettiarl.com
 DOMAIN-SUFFIX,cf222.art
 DOMAIN-SUFFIX,cgovn.cc
+DOMAIN-SUFFIX,cham-soc-the-truc-tuyen.com.vn
 DOMAIN-SUFFIX,chamsockhachang.com
 DOMAIN-SUFFIX,chamsockhachhang-tructuyenuudaithe.online
 DOMAIN-SUFFIX,chamsockhachhang-uudai-the-truc-tuyen.online
@@ -57959,6 +57991,7 @@ DOMAIN-SUFFIX,getclipabcxyz.com
 DOMAIN-SUFFIX,getintopc.digital
 DOMAIN-SUFFIX,getmacos.org
 DOMAIN-SUFFIX,getwindowsactivator.info
+DOMAIN-SUFFIX,ggiao.hangtietkiem.com
 DOMAIN-SUFFIX,ggzzmm.shop
 DOMAIN-SUFFIX,ghnn11.com
 DOMAIN-SUFFIX,ghnn22.com
@@ -58017,6 +58050,7 @@ DOMAIN-SUFFIX,goshopee.cc
 DOMAIN-SUFFIX,goshopee.club
 DOMAIN-SUFFIX,goshopee.net
 DOMAIN-SUFFIX,goshopee.vip
+DOMAIN-SUFFIX,govn.cc
 DOMAIN-SUFFIX,gpay-mpos-ruttientindung.com
 DOMAIN-SUFFIX,gpay247-mp0s-quetthetindung.com
 DOMAIN-SUFFIX,gplxgovn.vn
@@ -58094,6 +58128,7 @@ DOMAIN-SUFFIX,hethongbhx.com
 DOMAIN-SUFFIX,hethongdonhang.com
 DOMAIN-SUFFIX,hethonggiaodichvidientu247.com
 DOMAIN-SUFFIX,hethongquatang.vn
+DOMAIN-SUFFIX,hethongvaynhanh247.com
 DOMAIN-SUFFIX,hethongviet99.com
 DOMAIN-SUFFIX,hgff11.com
 DOMAIN-SUFFIX,hhwd68.com
@@ -58347,6 +58382,7 @@ DOMAIN-SUFFIX,ksdp997.com
 DOMAIN-SUFFIX,kstorybank.top
 DOMAIN-SUFFIX,ktien.vn
 DOMAIN-SUFFIX,kuyhaa-me.pw
+DOMAIN-SUFFIX,kyaj11.com
 DOMAIN-SUFFIX,l-fb.co
 DOMAIN-SUFFIX,la533.com
 DOMAIN-SUFFIX,la5959.com
@@ -58582,6 +58618,7 @@ DOMAIN-SUFFIX,mbbankl.com
 DOMAIN-SUFFIX,mbbankmn.com
 DOMAIN-SUFFIX,mbbankn.com
 DOMAIN-SUFFIX,mbbffn.online
+DOMAIN-SUFFIX,mbbkh-canhan.com
 DOMAIN-SUFFIX,mbcanhan-cskh.com
 DOMAIN-SUFFIX,mbdk99.com
 DOMAIN-SUFFIX,mbdkb.com
@@ -58651,6 +58688,7 @@ DOMAIN-SUFFIX,mizonevn.shop
 DOMAIN-SUFFIX,mkshopmobi.xyz
 DOMAIN-SUFFIX,mlazada.com
 DOMAIN-SUFFIX,mlswl.shop
+DOMAIN-SUFFIX,mmbonline01.com
 DOMAIN-SUFFIX,mmocorporation2017.com
 DOMAIN-SUFFIX,mmomo.me
 DOMAIN-SUFFIX,mmovietnam.info
@@ -59652,6 +59690,7 @@ DOMAIN-SUFFIX,shopeeshoppimg.com
 DOMAIN-SUFFIX,shopeesmarket.com
 DOMAIN-SUFFIX,shopeeson.com
 DOMAIN-SUFFIX,shopeesop.com
+DOMAIN-SUFFIX,shopeesopp.com
 DOMAIN-SUFFIX,shopeesukien.com
 DOMAIN-SUFFIX,shopeetiki.com
 DOMAIN-SUFFIX,shopeetro.club
@@ -60135,6 +60174,7 @@ DOMAIN-SUFFIX,tdkd02.com
 DOMAIN-SUFFIX,tdkd03.com
 DOMAIN-SUFFIX,tdkd07.com
 DOMAIN-SUFFIX,tdkd08.com
+DOMAIN-SUFFIX,tdke03.com
 DOMAIN-SUFFIX,tdkt00.com
 DOMAIN-SUFFIX,tdkt01.com
 DOMAIN-SUFFIX,tdkt04.com
@@ -60186,6 +60226,7 @@ DOMAIN-SUFFIX,thisinhthanhlich.cf
 DOMAIN-SUFFIX,thisinhthanhlich.com
 DOMAIN-SUFFIX,thisinhthanhlich2022.com
 DOMAIN-SUFFIX,thisinhthanhlich2024.com
+DOMAIN-SUFFIX,thongtincutru.org
 DOMAIN-SUFFIX,thongtindancu.org
 DOMAIN-SUFFIX,thongtindonhang.com
 DOMAIN-SUFFIX,thpthuynhthuckhang.edu.vn
@@ -61163,6 +61204,7 @@ DOMAIN-SUFFIX,vnpay247-ruttientindung.com
 DOMAIN-SUFFIX,vnpaycredit-ruttientindung247.com
 DOMAIN-SUFFIX,vnpaycreditruttientindung-247.com
 DOMAIN-SUFFIX,vnpt99.com
+DOMAIN-SUFFIX,vnsehotro.com
 DOMAIN-SUFFIX,vnsendo.info
 DOMAIN-SUFFIX,vnsendo.net
 DOMAIN-SUFFIX,vnsendo.shop
@@ -61202,6 +61244,7 @@ DOMAIN-SUFFIX,vnvay.top
 DOMAIN-SUFFIX,vnvietcombank.cc
 DOMAIN-SUFFIX,vnvietcombanks.cc
 DOMAIN-SUFFIX,vnvietjet.com
+DOMAIN-SUFFIX,vnviettel.com
 DOMAIN-SUFFIX,vnwish.shop
 DOMAIN-SUFFIX,vodkaquang.com
 DOMAIN-SUFFIX,vongloai.vn
@@ -61392,6 +61435,7 @@ DOMAIN-SUFFIX,wooribank.info
 DOMAIN-SUFFIX,woorivn.online
 DOMAIN-SUFFIX,word.emldn.com
 DOMAIN-SUFFIX,wutienitme247.info
+DOMAIN-SUFFIX,wvOntgd.pqmg.bid
 DOMAIN-SUFFIX,wvietcombank.com
 DOMAIN-SUFFIX,wviietcombank.com
 DOMAIN-SUFFIX,wvvietcombank.com
@@ -61462,10 +61506,19 @@ DOMAIN-SUFFIX,zla653.top
 DOMAIN-SUFFIX,zla963.top
 DOMAIN-SUFFIX,zmomo.cc
 DOMAIN-SUFFIX,znavidsde.cfd
+DOMAIN-SUFFIX,zutube.pro
 DOMAIN-SUFFIX,zvay.online
 DOMAIN-SUFFIX,zvc.cc
 DOMAIN-SUFFIX,zvietcombank.com
 DOMAIN-SUFFIX,zvietnakello.weebly.com
+DOMAIN-SUFFIX,sravga.xyz
+DOMAIN-SUFFIX,shbzikj.cn
+DOMAIN-SUFFIX,xhlkvx.xyz
+DOMAIN-SUFFIX,dgkship.icu
+DOMAIN-SUFFIX,pojdnf.xyz
+DOMAIN-SUFFIX,pfkgl.top
+DOMAIN-SUFFIX,wdxxx.top
+DOMAIN-SUFFIX,ekltes.xyz
 DOMAIN-SUFFIX,gfchck.xyz
 DOMAIN-SUFFIX,knuinws.icu
 DOMAIN-SUFFIX,shbxukj.cn
