@@ -2,13 +2,14 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-08-028 16:16:59
-# DOMAIN: 1
-# TOTAL: 1
-DOMAIN,lens.l.google.com
+# DOMAIN: 9
+# TOTAL: 9
 DOMAIN,voice.google.com
 DOMAIN,voice-fe.googleapis.com
 DOMAIN,voice.googleapis.com
+DOMAIN,voice.clients6.google.com
 DOMAIN,peoplestack-pa.googleapis.com
+DOMAIN,people-pa.clients6.google.com
+DOMAIN,lens.l.google.com
 DOMAIN,clients4.google.com
 DOMAIN,googleapis.com
-DOMAIN,voice.clients6.google.com
