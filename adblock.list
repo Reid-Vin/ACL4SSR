@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-09-08 06:08:48
-# 数量：71810条
+# 更新：2024-09-09 06:10:38
+# 数量：71832条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,injectshrslinkblog.com
@@ -2869,7 +2869,6 @@ DOMAIN-SUFFIX,adspyglass.com
 DOMAIN-SUFFIX,adsrv.me
 DOMAIN-SUFFIX,adsrv.wtf
 DOMAIN-SUFFIX,adstarget.net
-DOMAIN-SUFFIX,adstargets.com
 DOMAIN-SUFFIX,adstean.com
 DOMAIN-SUFFIX,adstico.io
 DOMAIN-SUFFIX,adstook.com
@@ -3204,6 +3203,7 @@ DOMAIN-SUFFIX,afunyjoiynvsk.com
 DOMAIN-SUFFIX,afvwwjcplvq.com
 DOMAIN-SUFFIX,afwpc.com
 DOMAIN-SUFFIX,afxjwyg.com
+DOMAIN-SUFFIX,afy.agency
 DOMAIN-SUFFIX,afywhecpi.com
 DOMAIN-SUFFIX,agabreloomr.com
 DOMAIN-SUFFIX,agacelebir.com
@@ -9982,6 +9982,7 @@ DOMAIN-SUFFIX,digqvvtb.com
 DOMAIN-SUFFIX,diguver.com
 DOMAIN-SUFFIX,digyniahuffle.com
 DOMAIN-SUFFIX,diingsinspiri.com
+DOMAIN-SUFFIX,diixqvrpoqs.com
 DOMAIN-SUFFIX,dikeaxillas.com
 DOMAIN-SUFFIX,dikkoplida.cam
 DOMAIN-SUFFIX,diktatslopseed.com
@@ -21616,6 +21617,7 @@ DOMAIN-SUFFIX,murkestminter.com
 DOMAIN-SUFFIX,murkybrashly.com
 DOMAIN-SUFFIX,murkymouse.online
 DOMAIN-SUFFIX,murreyequate.com
+DOMAIN-SUFFIX,murtbgab.com
 DOMAIN-SUFFIX,muscatscurls.click
 DOMAIN-SUFFIX,muscledarcysilly.com
 DOMAIN-SUFFIX,musclehaulse.top
@@ -37791,6 +37793,7 @@ DOMAIN-SUFFIX,adsbookie.com
 DOMAIN-SUFFIX,adscendmedia.com
 DOMAIN-SUFFIX,adscout.io
 DOMAIN-SUFFIX,adscpm.net
+DOMAIN-SUFFIX,adsenix.com
 DOMAIN-SUFFIX,adserve.com
 DOMAIN-SUFFIX,adservingfactory.com
 DOMAIN-SUFFIX,adservme.com
@@ -37816,6 +37819,7 @@ DOMAIN-SUFFIX,adsrv4k.com
 DOMAIN-SUFFIX,adsrvmedia.com
 DOMAIN-SUFFIX,adsrvmedia.net
 DOMAIN-SUFFIX,adstargeting.com
+DOMAIN-SUFFIX,adstargets.com
 DOMAIN-SUFFIX,adstatic.com
 DOMAIN-SUFFIX,adsterra.com
 DOMAIN-SUFFIX,adsterratech.com
@@ -38867,10 +38871,12 @@ DOMAIN-SUFFIX,0ae00c7c.xyz
 DOMAIN-SUFFIX,0c0b6e3f.xyz
 DOMAIN-SUFFIX,0d785fd7.xyz
 DOMAIN-SUFFIX,10523745.xyz
+DOMAIN-SUFFIX,10753990.xyz
 DOMAIN-SUFFIX,11152646.xyz
 DOMAIN-SUFFIX,1116c5.xyz
 DOMAIN-SUFFIX,11c7a3.xyz
 DOMAIN-SUFFIX,1350c3.xyz
+DOMAIN-SUFFIX,15272973.xyz
 DOMAIN-SUFFIX,156fd4.xyz
 DOMAIN-SUFFIX,15752525.xyz
 DOMAIN-SUFFIX,164de830.live
@@ -38950,6 +38956,7 @@ DOMAIN-SUFFIX,7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 DOMAIN-SUFFIX,7fc8.site
 DOMAIN-SUFFIX,814272c4.xyz
 DOMAIN-SUFFIX,83887336.xyz
+DOMAIN-SUFFIX,84631949.xyz
 DOMAIN-SUFFIX,88129513.xyz
 DOMAIN-SUFFIX,88545539.xyz
 DOMAIN-SUFFIX,89263907.xyz
@@ -39066,9 +39073,11 @@ DOMAIN-SUFFIX,1187531871.rsc.cdn77.org
 DOMAIN-SUFFIX,1208344341.rsc.cdn77.org
 DOMAIN-SUFFIX,1363394706.rsc.cdn77.org
 DOMAIN-SUFFIX,1437953666.rsc.cdn77.org
+DOMAIN-SUFFIX,1450691516.rsc.cdn77.org
 DOMAIN-SUFFIX,1529462937.rsc.cdn77.org
 DOMAIN-SUFFIX,1548164934.rsc.cdn77.org
 DOMAIN-SUFFIX,1588341617.rsc.cdn77.org
+DOMAIN-SUFFIX,1607162747.rsc.cdn77.org
 DOMAIN-SUFFIX,1675450967.rsc.cdn77.org
 DOMAIN-SUFFIX,1736253261.rsc.cdn77.org
 DOMAIN-SUFFIX,1918837748.rsc.cdn77.org
@@ -41330,6 +41339,7 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,events.baselime.io
 DOMAIN-SUFFIX,trackdesk.com
 DOMAIN-SUFFIX,adlc-exchange.toast.com
 DOMAIN-SUFFIX,joinmassive.com
@@ -44860,6 +44870,8 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,a-da.invideo.io
+DOMAIN-SUFFIX,pixel.clutter.com
 DOMAIN-SUFFIX,log.bloodppressure.info
 DOMAIN-SUFFIX,log.pdfreaders.net
 DOMAIN-SUFFIX,track2.tprg.ru
@@ -59120,6 +59132,16 @@ DOMAIN-SUFFIX,dsad234.fun
 DOMAIN-SUFFIX,geewdashb3.fun
 DOMAIN-SUFFIX,ljbrbz.xyz
 DOMAIN-SUFFIX,mrutvncx.top
+DOMAIN-SUFFIX,dsdsg44.fun
+DOMAIN-SUFFIX,uuajq.top
+DOMAIN-SUFFIX,ttdpxh.xyz
+DOMAIN-SUFFIX,pjcijbv.icu
+DOMAIN-SUFFIX,yxamkm.xyz
+DOMAIN-SUFFIX,gessdashb6.fun
+DOMAIN-SUFFIX,fq04.shop
+DOMAIN-SUFFIX,jy06.shop
+DOMAIN-SUFFIX,rewrwrt4.fun
+DOMAIN-SUFFIX,poiejdhmkjcnd.top
 DOMAIN-SUFFIX,azenco.xyz
 DOMAIN-SUFFIX,g11edashb1.fun
 DOMAIN-SUFFIX,lzzqfj.xyz
