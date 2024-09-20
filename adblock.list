@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-09-19 06:10:33
-# 数量：70807条
+# 更新：2024-09-20 06:10:15
+# 数量：70831条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,bxxibvjt.com
@@ -1776,6 +1776,7 @@ DOMAIN-SUFFIX,5b10f288ee.com
 DOMAIN-SUFFIX,5b3fbababb.com
 DOMAIN-SUFFIX,5btekl14.de
 DOMAIN-SUFFIX,5c01ad4cb7.com
+DOMAIN-SUFFIX,5c4ccd56c9.com
 DOMAIN-SUFFIX,5ca59a669a.com
 DOMAIN-SUFFIX,5caa478343.com
 DOMAIN-SUFFIX,5cbbdb4434.com
@@ -11299,6 +11300,7 @@ DOMAIN-SUFFIX,embodygoes.com
 DOMAIN-SUFFIX,embogsoarers.com
 DOMAIN-SUFFIX,embolipokies.com
 DOMAIN-SUFFIX,embolysaros.click
+DOMAIN-SUFFIX,embowerdatto.com
 DOMAIN-SUFFIX,embracetrace.com
 DOMAIN-SUFFIX,embrailcamino.top
 DOMAIN-SUFFIX,embtrk.com
@@ -18702,6 +18704,7 @@ DOMAIN-SUFFIX,laithepacinko.click
 DOMAIN-SUFFIX,laitushous.com
 DOMAIN-SUFFIX,laivue.com
 DOMAIN-SUFFIX,laizuwhy.com
+DOMAIN-SUFFIX,lajjmqeshj.com
 DOMAIN-SUFFIX,lajouly.com
 DOMAIN-SUFFIX,lakequincy.com
 DOMAIN-SUFFIX,lakmus.xyz
@@ -24557,6 +24560,7 @@ DOMAIN-SUFFIX,phultids.com
 DOMAIN-SUFFIX,phumpauk.com
 DOMAIN-SUFFIX,phupours.com
 DOMAIN-SUFFIX,phursefter.net
+DOMAIN-SUFFIX,phuthobsee.com
 DOMAIN-SUFFIX,phuzeeksub.com
 DOMAIN-SUFFIX,phvhnxebmrzf.com
 DOMAIN-SUFFIX,phxnkysa.com
@@ -25823,6 +25827,7 @@ DOMAIN-SUFFIX,ptamselrou.com
 DOMAIN-SUFFIX,ptanguth.com
 DOMAIN-SUFFIX,ptapjmp.com
 DOMAIN-SUFFIX,ptatexiwhe.com
+DOMAIN-SUFFIX,ptatzrucj.com
 DOMAIN-SUFFIX,ptaujoot.net
 DOMAIN-SUFFIX,ptaumoadsovu.com
 DOMAIN-SUFFIX,ptaunsoova.com
@@ -30319,6 +30324,7 @@ DOMAIN-SUFFIX,stats-best.site
 DOMAIN-SUFFIX,statsforads.com
 DOMAIN-SUFFIX,statsmobi.com
 DOMAIN-SUFFIX,staubsuthil.com
+DOMAIN-SUFFIX,staukaul.com
 DOMAIN-SUFFIX,staumersleep.com
 DOMAIN-SUFFIX,staunchchivied.top
 DOMAIN-SUFFIX,staunchgenetwitch.com
@@ -35521,6 +35527,7 @@ DOMAIN-SUFFIX,ww2.imgwallet.com
 DOMAIN-SUFFIX,wwaeljajwvlrw.top
 DOMAIN-SUFFIX,wwaeljajwvywm.top
 DOMAIN-SUFFIX,wwahuxzipoc.com
+DOMAIN-SUFFIX,wwaowwonthco.com
 DOMAIN-SUFFIX,wwarvlorkeww.top
 DOMAIN-SUFFIX,wwarvlorobzw.top
 DOMAIN-SUFFIX,wwbeqrhjwnijdk.com
@@ -38373,6 +38380,7 @@ DOMAIN-SUFFIX,7e60f1f9.xyz
 DOMAIN-SUFFIX,7e809ed7-e553-4e29-acb1-4e3c0e986562.site
 DOMAIN-SUFFIX,7fc8.site
 DOMAIN-SUFFIX,814272c4.xyz
+DOMAIN-SUFFIX,83761158.xyz
 DOMAIN-SUFFIX,83887336.xyz
 DOMAIN-SUFFIX,84631949.xyz
 DOMAIN-SUFFIX,88129513.xyz
@@ -40160,6 +40168,7 @@ DOMAIN-SUFFIX,adballoon.afreecatv.com
 DOMAIN-SUFFIX,deapi.afreecatv.com
 DOMAIN-SUFFIX,startup.mobile.yandex.net
 DOMAIN-SUFFIX,startup-mobile.ap.yandex-net.ru
+DOMAIN-SUFFIX,ads-router-noneu.truecaller.com
 DOMAIN-SUFFIX,umphek.com
 DOMAIN-SUFFIX,ahoy-internal-ads-hv.b-cdn.net
 DOMAIN-SUFFIX,ad.iwhop.cn
@@ -40841,7 +40850,6 @@ DOMAIN-SUFFIX,dmp-ai.ru
 DOMAIN-SUFFIX,dmp-one.ru
 DOMAIN-SUFFIX,dmp-1.ru
 DOMAIN-SUFFIX,tjk-njk.com
-DOMAIN-SUFFIX,cdn.pubnub.com
 DOMAIN-SUFFIX,ziwelatum.com
 DOMAIN-SUFFIX,houston.advgo.net
 DOMAIN-SUFFIX,merchant-center-analytics.goog
@@ -44304,6 +44312,7 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,analitik.pendik.bel.tr
 DOMAIN-SUFFIX,analytics-api.sconto.cz
 DOMAIN-SUFFIX,log-ana.h3z.jp
 DOMAIN-SUFFIX,ivstat.indavideo.hu
@@ -51516,6 +51525,7 @@ DOMAIN-SUFFIX,sv.sheego.de
 DOMAIN-SUFFIX,azol.de
 DOMAIN-SUFFIX,twiago.com
 DOMAIN-SUFFIX,bauernative.com
+DOMAIN-SUFFIX,mm.wxc.cc
 DOMAIN-SUFFIX,xn--mts60is5y5uk.com
 DOMAIN-SUFFIX,dfqzah.xyz
 DOMAIN-SUFFIX,lafacw.xyz
@@ -58584,6 +58594,20 @@ DOMAIN-SUFFIX,zvay.online
 DOMAIN-SUFFIX,zvc.cc
 DOMAIN-SUFFIX,zvietcombank.com
 DOMAIN-SUFFIX,zvietnakello.weebly.com
+DOMAIN-SUFFIX,pmzlnt.xyz
+DOMAIN-SUFFIX,imusye.xyz
+DOMAIN-SUFFIX,bgbg00.fun
+DOMAIN-SUFFIX,fwsfwef2.fun
+DOMAIN-SUFFIX,vvadz.cc
+DOMAIN-SUFFIX,wpsbaq.xyz
+DOMAIN-SUFFIX,blinxmi.icu
+DOMAIN-SUFFIX,pjaihds.icu
+DOMAIN-SUFFIX,lkiterl.top
+DOMAIN-SUFFIX,dasda64.fun
+DOMAIN-SUFFIX,iffobi.xyz
+DOMAIN-SUFFIX,jauql.top
+DOMAIN-SUFFIX,okiterk.top
+DOMAIN-SUFFIX,786yfvedhcbxjk.top
 DOMAIN-SUFFIX,ukitert.top
 DOMAIN-SUFFIX,csdcfvgf4.fun
 DOMAIN-SUFFIX,megydyk.icu
