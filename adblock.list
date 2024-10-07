@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-10-06 06:09:15
-# 数量：71545条
+# 更新：2024-10-07 06:11:05
+# 数量：71557条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,comicad.net
@@ -59111,6 +59111,18 @@ DOMAIN-SUFFIX,zvietcombank.com
 DOMAIN-SUFFIX,zvietnakello.weebly.com
 DOMAIN-SUFFIX,51tongji.trafficmanager.net
 DOMAIN-SUFFIX,cnzz.trafficmanager.net
+DOMAIN-SUFFIX,edadmy.xyz
+DOMAIN-SUFFIX,kgymoc.xyz
+DOMAIN-SUFFIX,xlxehr.xyz
+DOMAIN-SUFFIX,2efgcdcjr000.fun
+DOMAIN-SUFFIX,clmcam.xyz
+DOMAIN-SUFFIX,bmqulua.icu
+DOMAIN-SUFFIX,ddlmsoyo.icu
+DOMAIN-SUFFIX,mwurserx.top
+DOMAIN-SUFFIX,yjwxegq.icu
+DOMAIN-SUFFIX,6efgcdcjr000.fun
+DOMAIN-SUFFIX,bwurserv.top
+DOMAIN-SUFFIX,imndl.icu
 DOMAIN-SUFFIX,yuayku.xyz
 DOMAIN-SUFFIX,srmsii.xyz
 DOMAIN-SUFFIX,qzorwe.xyz
