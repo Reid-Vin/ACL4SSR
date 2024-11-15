@@ -3,10 +3,12 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-11-14 06:11:01
-# 数量：64149条
+# 更新：2024-11-15 06:12:40
+# 数量：64171条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,championshipcoma.com
+DOMAIN-SUFFIX,late-anxiety.com
 DOMAIN-SUFFIX,profitablecpmrate.com
 DOMAIN-SUFFIX,wwwwzeraqvrej.top
 DOMAIN-SUFFIX,mycuegxt.com
@@ -2245,6 +2247,7 @@ DOMAIN-SUFFIX,absentcleannewspapers.com
 DOMAIN-SUFFIX,absentlybiddingleopard.com
 DOMAIN-SUFFIX,absentlygratefulcamomile.com
 DOMAIN-SUFFIX,absentlyrindbulk.com
+DOMAIN-SUFFIX,absentmissingaccept.com
 DOMAIN-SUFFIX,abservinean.com
 DOMAIN-SUFFIX,abskursin.com
 DOMAIN-SUFFIX,abslroan.com
@@ -5981,6 +5984,7 @@ DOMAIN-SUFFIX,butterflyunkindpractitioner.com
 DOMAIN-SUFFIX,buttersource.com
 DOMAIN-SUFFIX,buuftxcii.com
 DOMAIN-SUFFIX,buxbaumiaceae.sbs
+DOMAIN-SUFFIX,buxfmookn.com
 DOMAIN-SUFFIX,buyadvupfor24.com
 DOMAIN-SUFFIX,buyfrightencheckup.com
 DOMAIN-SUFFIX,buylnk.com
@@ -11846,6 +11850,7 @@ DOMAIN-SUFFIX,gloumsee.net
 DOMAIN-SUFFIX,gloumsie.net
 DOMAIN-SUFFIX,glounugeepse.xyz
 DOMAIN-SUFFIX,glouseer.net
+DOMAIN-SUFFIX,glousoonomsy.xyz
 DOMAIN-SUFFIX,gloussowu.xyz
 DOMAIN-SUFFIX,gloustoa.net
 DOMAIN-SUFFIX,gloutanacard.com
@@ -19031,6 +19036,7 @@ DOMAIN-SUFFIX,outoctillerytor.com
 DOMAIN-SUFFIX,outofthecath.org
 DOMAIN-SUFFIX,outrotomr.com
 DOMAIN-SUFFIX,outseeltor.com
+DOMAIN-SUFFIX,outseethoozet.net
 DOMAIN-SUFFIX,outsetnormalwaited.com
 DOMAIN-SUFFIX,outseylor.com
 DOMAIN-SUFFIX,outsimiseara.com
@@ -22247,6 +22253,7 @@ DOMAIN-SUFFIX,rhinioncappers.com
 DOMAIN-SUFFIX,rhinocerosobtrusive.com
 DOMAIN-SUFFIX,rhombicsomeday.com
 DOMAIN-SUFFIX,rhouseoyopers.info
+DOMAIN-SUFFIX,rhoxbneasg.xyz
 DOMAIN-SUFFIX,rhrim.com
 DOMAIN-SUFFIX,rhsorga.com
 DOMAIN-SUFFIX,rhubarbmasterpiece.com
@@ -26616,6 +26623,7 @@ DOMAIN-SUFFIX,umjcamewiththe.info
 DOMAIN-SUFFIX,umoxomv.icu
 DOMAIN-SUFFIX,umpedshumal.com
 DOMAIN-SUFFIX,umqmxawxnrcp.com
+DOMAIN-SUFFIX,umtchdhkrx.com
 DOMAIN-SUFFIX,umtudo.com
 DOMAIN-SUFFIX,umumallowecouldl.info
 DOMAIN-SUFFIX,unacceptableclevercapable.com
@@ -36876,6 +36884,9 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,fail.adr.ec
+DOMAIN-SUFFIX,t.adii.se
+DOMAIN-SUFFIX,stats.bunkr.ru
 DOMAIN-SUFFIX,logs.netflix.com
 DOMAIN-SUFFIX,mst.rnd.de
 DOMAIN-SUFFIX,cza.crazygames.com
@@ -38220,6 +38231,7 @@ DOMAIN-SUFFIX,epiv.cardlytics.com
 DOMAIN-SUFFIX,er.search.naver.com
 DOMAIN-SUFFIX,estat.zum.com
 DOMAIN-SUFFIX,et.nytimes.com
+DOMAIN-SUFFIX,ev2.api.bdg.com
 DOMAIN-SUFFIX,ev.api.bdg.com
 DOMAIN-SUFFIX,ev.kck.st
 DOMAIN-SUFFIX,events.popinfo.jp
@@ -39342,6 +39354,9 @@ DOMAIN-SUFFIX,int.vaicore.xyz
 DOMAIN-SUFFIX,int.vlancaa.site
 DOMAIN-SUFFIX,int.vlancaa.fun
 DOMAIN-SUFFIX,tok.vaicore.xyz
+DOMAIN-SUFFIX,atsod.launch.liveramp.com
+DOMAIN-SUFFIX,ads-image.production-public.tubi.io
+DOMAIN-SUFFIX,user-signals.production-public.tubi.io
 DOMAIN-SUFFIX,mob2.healthtrackergroup.com
 DOMAIN-SUFFIX,insights-categorizer-noneu.truecaller.com
 DOMAIN-SUFFIX,event-dot-learning-piano.appspot.com
@@ -51379,11 +51394,18 @@ DOMAIN-SUFFIX,zvietnakello.weebly.com
 DOMAIN-SUFFIX,zywjpypco.7hujk.de
 DOMAIN-SUFFIX,51tongji.trafficmanager.net
 DOMAIN-SUFFIX,cnzz.trafficmanager.net
+DOMAIN-SUFFIX,uaqdgrfr.icu
+DOMAIN-SUFFIX,gzfsqrc.icu
+DOMAIN-SUFFIX,kweisid.top
+DOMAIN-SUFFIX,o8zoz.icu
+DOMAIN-SUFFIX,ekzmk.icu
 DOMAIN-SUFFIX,bujlmitd.icu
 DOMAIN-SUFFIX,wrdamoe.icu
 DOMAIN-SUFFIX,iweisio.top
 DOMAIN-SUFFIX,u5ps5.icu
 DOMAIN-SUFFIX,lwvrv.icu
+DOMAIN-SUFFIX,vnuuh.icu
+DOMAIN-SUFFIX,jweisia.top
 DOMAIN-SUFFIX,stunkrins.com
 DOMAIN-SUFFIX,rjwpwod.icu
 DOMAIN-SUFFIX,gheqien.com
