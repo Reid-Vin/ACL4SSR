@@ -3,10 +3,11 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-12-03 06:11:42
-# 数量：63731条
+# 更新：2024-12-04 06:12:16
+# 数量：63744条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,op3xdork.xyz
 DOMAIN-SUFFIX,qrifhajtabcy.com
 DOMAIN-SUFFIX,joogruphezefaul.net
 DOMAIN-SUFFIX,legiblyosmols.top
@@ -7088,6 +7089,7 @@ DOMAIN-SUFFIX,comymandars.info
 DOMAIN-SUFFIX,conative.network
 DOMAIN-SUFFIX,concealedcredulous.com
 DOMAIN-SUFFIX,concealmentbrainpower.com
+DOMAIN-SUFFIX,concealmentmimic.com
 DOMAIN-SUFFIX,concedederaserskyline.com
 DOMAIN-SUFFIX,conceitedfedapple.com
 DOMAIN-SUFFIX,conceivedtowards.com
@@ -30507,6 +30509,7 @@ DOMAIN-SUFFIX,mktg.evvnt.com
 DOMAIN-SUFFIX,mmwebhandler.888.com
 DOMAIN-SUFFIX,monetize-static.viralize.tv
 DOMAIN-SUFFIX,neural.myth.dev
+DOMAIN-SUFFIX,newtabextension.com
 DOMAIN-SUFFIX,ogads-pa.googleapis.com
 DOMAIN-SUFFIX,omegadblocker.com
 DOMAIN-SUFFIX,onlinepromogift.com
@@ -36247,6 +36250,8 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,femetrics.grammarly.io
+DOMAIN-SUFFIX,media-stat.mail.ru
 DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,analytics.shorthand.com
 DOMAIN-SUFFIX,gh.fanatical.com
@@ -36528,7 +36533,6 @@ DOMAIN-SUFFIX,ingest.make.rvohealth.com
 DOMAIN-SUFFIX,segment-api.goodrx.com
 DOMAIN-SUFFIX,zion-telemetry-nonprod.api.cnn.io
 DOMAIN-SUFFIX,log.suumo.jp
-DOMAIN-SUFFIX,femetrics.grammarly.io
 DOMAIN-SUFFIX,realtimeanalytics.yext.com
 DOMAIN-SUFFIX,stats.indianpornempire.com
 DOMAIN-SUFFIX,lp.spac.me
@@ -42966,6 +42970,7 @@ DOMAIN-SUFFIX,greencuttlefish.com
 DOMAIN-SUFFIX,vst.videolink.host
 DOMAIN-SUFFIX,exad.smi2.ru
 DOMAIN-SUFFIX,tgb.hsmedia.ru
+DOMAIN-SUFFIX,media-advcycle.imgsmail.ru
 DOMAIN-SUFFIX,sdk.kokocads.com
 DOMAIN-SUFFIX,r1.ati.su
 DOMAIN-SUFFIX,rcmjs.rambler.ru
@@ -43940,7 +43945,6 @@ DOMAIN-SUFFIX,ci-marketing.de
 DOMAIN-SUFFIX,codes.wai.it
 DOMAIN-SUFFIX,conative.de
 DOMAIN-SUFFIX,connects.ch
-DOMAIN-SUFFIX,cpdsrv.de
 DOMAIN-SUFFIX,crmpilot.it
 DOMAIN-SUFFIX,cuiron.de
 DOMAIN-SUFFIX,cussixia.de
@@ -50810,6 +50814,15 @@ DOMAIN-SUFFIX,grerzieds.com
 DOMAIN-SUFFIX,c4uy.icu
 DOMAIN-SUFFIX,k5uj.icu
 DOMAIN-SUFFIX,udamcst.top
+DOMAIN-SUFFIX,thaqne.com
+DOMAIN-SUFFIX,q1bp.icu
+DOMAIN-SUFFIX,odamcsk.top
+DOMAIN-SUFFIX,lumvkebr.icu
+DOMAIN-SUFFIX,scroscoi.com
+DOMAIN-SUFFIX,ldamcsl.top
+DOMAIN-SUFFIX,d5r.icu
+DOMAIN-SUFFIX,fo0.icu
+DOMAIN-SUFFIX,nuvaioqds.com
 DOMAIN-SUFFIX,sconat.com
 DOMAIN-SUFFIX,cidhmxxb.icu
 DOMAIN-SUFFIX,ig69.vip
