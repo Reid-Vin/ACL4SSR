@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-12-14 06:10:07
-# 数量：64211条
+# 更新：2024-12-15 06:10:24
+# 数量：64220条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,cpngiubbcnq.love
@@ -28424,6 +28424,7 @@ DOMAIN-SUFFIX,xueserverhost.com
 DOMAIN-SUFFIX,xuiqxlhqyo.com
 DOMAIN-SUFFIX,xukpqemfs.com
 DOMAIN-SUFFIX,xukpresesmr.info
+DOMAIN-SUFFIX,xupalace.org
 DOMAIN-SUFFIX,xuqza.com
 DOMAIN-SUFFIX,xvbwvle.com
 DOMAIN-SUFFIX,xvfyubhqjp.xyz
@@ -43662,6 +43663,7 @@ DOMAIN-SUFFIX,ads.dugwood.com
 DOMAIN-SUFFIX,caraneoutraze.uno
 DOMAIN-SUFFIX,adserve.lasentinelle.mu
 DOMAIN-SUFFIX,adserver.icimedias.ca
+DOMAIN-SUFFIX,jp1media.com
 DOMAIN-SUFFIX,bra.almado.jp
 DOMAIN-SUFFIX,adsby.2bet.co.jp
 DOMAIN-SUFFIX,indexad.net
@@ -51047,6 +51049,7 @@ DOMAIN-SUFFIX,vwietcombank.com
 DOMAIN-SUFFIX,vxvw11.com
 DOMAIN-SUFFIX,vxvw22.com
 DOMAIN-SUFFIX,vxvw55.com
+DOMAIN-SUFFIX,vyrqhmdy.unbrws.de
 DOMAIN-SUFFIX,walmartshoping.com
 DOMAIN-SUFFIX,walmartva.icu
 DOMAIN-SUFFIX,warrenmoneytrader.com
@@ -51193,6 +51196,12 @@ DOMAIN-SUFFIX,hcznaubp.icu
 DOMAIN-SUFFIX,truxedku.com
 DOMAIN-SUFFIX,qm2.icu
 DOMAIN-SUFFIX,itimiyo.top
+DOMAIN-SUFFIX,vegaingi.com
+DOMAIN-SUFFIX,3lo.icu
+DOMAIN-SUFFIX,jtimiya.top
+DOMAIN-SUFFIX,aigfednd.icu
+DOMAIN-SUFFIX,chonaesor.com
+DOMAIN-SUFFIX,warped-bus.com
 DOMAIN-SUFFIX,owsrgljb.icu
 DOMAIN-SUFFIX,ziqniduy.com
 DOMAIN-SUFFIX,dddstew6cw8.fun
