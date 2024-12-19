@@ -3,10 +3,15 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2024-12-18 06:11:10
-# 数量：64258条
+# 更新：2024-12-19 06:11:17
+# 数量：64274条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,ceefsyqotuagk.com
+DOMAIN-SUFFIX,kljhsanvj.com
+DOMAIN-SUFFIX,leegreemula.net
+DOMAIN-SUFFIX,ldjyvegage.com
+DOMAIN-SUFFIX,skhmjezzj.com
 DOMAIN-SUFFIX,predictivadnetwork.com
 DOMAIN-SUFFIX,epvjljye.com
 DOMAIN-SUFFIX,ageetsaimouphih.net
@@ -32944,6 +32949,9 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,bt.dns-finder.com
+DOMAIN-SUFFIX,btloader.com
+DOMAIN-SUFFIX,glamipixel.com
 DOMAIN-SUFFIX,nocodelytics.com
 DOMAIN-SUFFIX,stat.fly.codes
 DOMAIN-SUFFIX,events.engager.ecbsn.com
@@ -33817,7 +33825,6 @@ DOMAIN-SUFFIX,tracking.sexcash.com
 DOMAIN-SUFFIX,fastly-insights.com
 DOMAIN-SUFFIX,cdn.trackclicks.info
 DOMAIN-SUFFIX,mm.actionlink.jp
-DOMAIN-SUFFIX,btloader.com
 DOMAIN-SUFFIX,tracklog.58.com
 DOMAIN-SUFFIX,wtstats.ro
 DOMAIN-SUFFIX,static.terratraf.io
@@ -51203,6 +51210,11 @@ DOMAIN-SUFFIX,zvietnakello.weebly.com
 DOMAIN-SUFFIX,zywjpypco.7hujk.de
 DOMAIN-SUFFIX,51tongji.trafficmanager.net
 DOMAIN-SUFFIX,cnzz.trafficmanager.net
+DOMAIN-SUFFIX,threkuth.com
+DOMAIN-SUFFIX,nrbwzh.icu
+DOMAIN-SUFFIX,32n.icu
+DOMAIN-SUFFIX,ltimiyl.top
+DOMAIN-SUFFIX,ppio12191ios.top
 DOMAIN-SUFFIX,ihearsoh.com
 DOMAIN-SUFFIX,juutckrt.icu
 DOMAIN-SUFFIX,qtimiyy.top
@@ -51217,6 +51229,9 @@ DOMAIN-SUFFIX,ee5.icu
 DOMAIN-SUFFIX,pofbpx.icu
 DOMAIN-SUFFIX,sckyf.com
 DOMAIN-SUFFIX,ppio12181ios.top
+DOMAIN-SUFFIX,stongors.com
+DOMAIN-SUFFIX,4we.icu
+DOMAIN-SUFFIX,otimiyk.top
 DOMAIN-SUFFIX,qonbibff.icu
 DOMAIN-SUFFIX,n7a.icu
 DOMAIN-SUFFIX,craegvin.com
@@ -57002,6 +57017,7 @@ DOMAIN-SUFFIX,sentry.alibaba.ir
 DOMAIN-SUFFIX,tracker.jabama.com
 DOMAIN-SUFFIX,kar-sentry.karnameh.com
 DOMAIN-SUFFIX,websocket.khanefootball.com
+DOMAIN-SUFFIX,sentry.mci.dev
 DOMAIN-SUFFIX,counter.musicsweb.ir
 DOMAIN-SUFFIX,counter.mahanmusic.net
 DOMAIN-SUFFIX,analytic.magland.ir
@@ -57012,7 +57028,7 @@ DOMAIN-SUFFIX,ws.namava.ir
 DOMAIN-SUFFIX,stc.ninisite.com
 DOMAIN-SUFFIX,websocket.55online.news
 DOMAIN-SUFFIX,analytics.plaza.ir
-DOMAIN-SUFFIX,sentry.quera.org
+DOMAIN-SUFFIX,sentry.querastaff.ir
 DOMAIN-SUFFIX,a.reymit.ir
 DOMAIN-SUFFIX,sentry.mielse.com
 DOMAIN-SUFFIX,ingest-data-afra.snappfood.dev
