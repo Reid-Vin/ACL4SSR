@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2025-01-12 06:09:45
-# 数量：63083条
+# 更新：2025-01-13 06:11:38
+# 数量：63095条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,9pub.io
@@ -29250,7 +29250,6 @@ DOMAIN-SUFFIX,adireto.com
 DOMAIN-SUFFIX,adisfy.com
 DOMAIN-SUFFIX,adisn.com
 DOMAIN-SUFFIX,adit-media.com
-DOMAIN-SUFFIX,adition.com
 DOMAIN-SUFFIX,aditize.com
 DOMAIN-SUFFIX,aditude.io
 DOMAIN-SUFFIX,adjal.com
@@ -32733,6 +32732,7 @@ DOMAIN-SUFFIX,adform.com
 DOMAIN-SUFFIX,adhood.com
 DOMAIN-SUFFIX,adinfo.tango.me
 DOMAIN-SUFFIX,adinfuse.com
+DOMAIN-SUFFIX,adition.com
 DOMAIN-SUFFIX,adkmob.com
 DOMAIN-SUFFIX,adleads.com
 DOMAIN-SUFFIX,adlibr.com
@@ -32955,6 +32955,7 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,actiontracking.jp
 DOMAIN-SUFFIX,mantis-intelligence.com
 DOMAIN-SUFFIX,stream.datago.ru
 DOMAIN-SUFFIX,pabidding.io
@@ -39877,6 +39878,7 @@ DOMAIN-SUFFIX,bmrg.reflected.net
 DOMAIN-SUFFIX,botdetection.hbrsd.com
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
 DOMAIN-SUFFIX,bs.yandex.ru
+DOMAIN-SUFFIX,c.albss.com
 DOMAIN-SUFFIX,c.amazinglybrilliant.com.au
 DOMAIN-SUFFIX,c.bazo.io
 DOMAIN-SUFFIX,c.live.com
@@ -43410,6 +43412,7 @@ DOMAIN-SUFFIX,206.54.181.250
 DOMAIN-SUFFIX,popvalk.com
 DOMAIN-SUFFIX,bjiuck.com
 DOMAIN-SUFFIX,greencuttlefish.com
+DOMAIN-SUFFIX,ad.cub.red
 DOMAIN-SUFFIX,vst.videolink.host
 DOMAIN-SUFFIX,exad.smi2.ru
 DOMAIN-SUFFIX,tgb.hsmedia.ru
@@ -44022,6 +44025,7 @@ DOMAIN-SUFFIX,yads.yahoo.co.jp
 DOMAIN-SUFFIX,yads.yjtag.yahoo.co.jp
 DOMAIN-SUFFIX,bance.jp
 DOMAIN-SUFFIX,94.130.167.163
+DOMAIN-SUFFIX,ad.firestorage.jp
 DOMAIN-SUFFIX,mbada.nan.co.jp
 DOMAIN-SUFFIX,ads.nicovideo.jp
 DOMAIN-SUFFIX,adserv2.suumo.jp
@@ -51271,10 +51275,18 @@ DOMAIN-SUFFIX,zvietnakello.weebly.com
 DOMAIN-SUFFIX,zywjpypco.7hujk.de
 DOMAIN-SUFFIX,51tongji.trafficmanager.net
 DOMAIN-SUFFIX,cnzz.trafficmanager.net
+DOMAIN-SUFFIX,nxdefd.icu
+DOMAIN-SUFFIX,thonkoirs.com
+DOMAIN-SUFFIX,vftrfmia.icu
+DOMAIN-SUFFIX,hdomsiu.top
+DOMAIN-SUFFIX,2za.fun
+DOMAIN-SUFFIX,idomsio.top
 DOMAIN-SUFFIX,tndbnriz.icu
 DOMAIN-SUFFIX,eisnaisv.com
 DOMAIN-SUFFIX,puhmtt.icu
 DOMAIN-SUFFIX,cdomsif.top
+DOMAIN-SUFFIX,ok5.fun
+DOMAIN-SUFFIX,drauvea.com
 DOMAIN-SUFFIX,riscats.com
 DOMAIN-SUFFIX,jebrhb.icu
 DOMAIN-SUFFIX,bc4.fun
