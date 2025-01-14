@@ -1,3 +1,9 @@
-# emby私服分流
-DOMAIN-KEYWORD,niceduck.lol
-DOMAIN-KEYWORD,emby.more
+# Emby私服分流规则
+# 规则总数：5条
+# 作者：Reid_Vin_Action
+
+DOMAIN,jcf.niceduck.lol
+DOMAIN,http://dpxcf.niceduck.lol
+DOMAIN,http://cf.niceduck.lol
+DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,emby.more
