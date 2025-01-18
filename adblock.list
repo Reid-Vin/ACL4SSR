@@ -3,10 +3,11 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2025-01-17 06:10:14
-# 数量：63291条
+# 更新：2025-01-18 06:09:01
+# 数量：63317条
 # 作者：Reid_Vin_Action
 
+DOMAIN-SUFFIX,unactkiosk.com
 DOMAIN-SUFFIX,pinco225.win
 DOMAIN-SUFFIX,news.jennydanny.com
 DOMAIN-SUFFIX,u57.muzikguide.com
@@ -788,6 +789,9 @@ DOMAIN-SUFFIX,minutelight-1.online
 DOMAIN-SUFFIX,newbluetrue.xyz
 DOMAIN-SUFFIX,onemediawork.com
 DOMAIN-SUFFIX,d162h6x3rxav67.cloudfront.net
+DOMAIN-SUFFIX,vtrk.dv.tech
+DOMAIN-SUFFIX,cdn-media.brightline.tv
+DOMAIN-SUFFIX,mt.ssai.peacocktv.com
 DOMAIN-SUFFIX,sponsors.salesforceben.com
 DOMAIN-SUFFIX,ads.cloudsight.ai
 DOMAIN-SUFFIX,s3-iad-ww.cf.videorolls.row.aiv-cdn.net
@@ -3580,6 +3584,7 @@ DOMAIN-SUFFIX,apologiesneedleworkrising.com
 DOMAIN-SUFFIX,apologizingrigorousmorally.com
 DOMAIN-SUFFIX,aporasal.net
 DOMAIN-SUFFIX,aporodiko.com
+DOMAIN-SUFFIX,apostilprinks.com
 DOMAIN-SUFFIX,apostlegrievepomp.com
 DOMAIN-SUFFIX,apostropheammunitioninjure.com
 DOMAIN-SUFFIX,app.tippp.io
@@ -5127,6 +5132,7 @@ DOMAIN-SUFFIX,blbesnuff.digital
 DOMAIN-SUFFIX,blcdog.com
 DOMAIN-SUFFIX,bleaborahmagtgi.org
 DOMAIN-SUFFIX,bleachimpartialtrusted.com
+DOMAIN-SUFFIX,blearspellaea.shop
 DOMAIN-SUFFIX,bleedingofficecontagion.com
 DOMAIN-SUFFIX,blehcourt.com
 DOMAIN-SUFFIX,blendedbird.com
@@ -7889,6 +7895,7 @@ DOMAIN-SUFFIX,dawndadmark.live
 DOMAIN-SUFFIX,dawnfilthscribble.com
 DOMAIN-SUFFIX,dawplm.com
 DOMAIN-SUFFIX,dawtittalky.shop
+DOMAIN-SUFFIX,daybookclags.com
 DOMAIN-SUFFIX,daybreakarchitecture.com
 DOMAIN-SUFFIX,dayqy.space
 DOMAIN-SUFFIX,daytimeentreatyalternate.com
@@ -12222,6 +12229,7 @@ DOMAIN-SUFFIX,gynietrooe.com
 DOMAIN-SUFFIX,gypperywyling.com
 DOMAIN-SUFFIX,gypsiedjilt.com
 DOMAIN-SUFFIX,gypsitenevi.com
+DOMAIN-SUFFIX,gypsumsnocks.com
 DOMAIN-SUFFIX,gypufahuyhov.xyz
 DOMAIN-SUFFIX,gytlingpaint.top
 DOMAIN-SUFFIX,gyvwigvwqkm.com
@@ -12861,6 +12869,7 @@ DOMAIN-SUFFIX,honzoenjewel.shop
 DOMAIN-SUFFIX,hoo1luha.com
 DOMAIN-SUFFIX,hoodboth.com
 DOMAIN-SUFFIX,hoodentangle.com
+DOMAIN-SUFFIX,hoodingluster.com
 DOMAIN-SUFFIX,hoodoosdonsky.com
 DOMAIN-SUFFIX,hoofexcessively.com
 DOMAIN-SUFFIX,hoofsduke.com
@@ -13879,6 +13888,7 @@ DOMAIN-SUFFIX,italianextended.com
 DOMAIN-SUFFIX,italianforesee.com
 DOMAIN-SUFFIX,italianhackwary.com
 DOMAIN-SUFFIX,italianout.com
+DOMAIN-SUFFIX,italitecasbah.com
 DOMAIN-SUFFIX,itblisseyer.com
 DOMAIN-SUFFIX,itcameruptr.com
 DOMAIN-SUFFIX,itchhandwritingimpetuous.com
@@ -14295,6 +14305,7 @@ DOMAIN-SUFFIX,jorttiuyng.com
 DOMAIN-SUFFIX,josephineravine.com
 DOMAIN-SUFFIX,josfrvq.com
 DOMAIN-SUFFIX,josiehopeless.com
+DOMAIN-SUFFIX,josiepigroot.com
 DOMAIN-SUFFIX,josieunethical.com
 DOMAIN-SUFFIX,josjrhtot.com
 DOMAIN-SUFFIX,jotterswirrah.com
@@ -18927,6 +18938,7 @@ DOMAIN-SUFFIX,oxidemustard.com
 DOMAIN-SUFFIX,oxidetoward.com
 DOMAIN-SUFFIX,oxjexkubhvwn.xyz
 DOMAIN-SUFFIX,oxkgcefteo.com
+DOMAIN-SUFFIX,oxlipbegan.com
 DOMAIN-SUFFIX,oxmoonlint.com
 DOMAIN-SUFFIX,oxmopobypviuy.com
 DOMAIN-SUFFIX,oxmqzeszyo.com
@@ -22109,6 +22121,7 @@ DOMAIN-SUFFIX,riseshamelessdrawers.com
 DOMAIN-SUFFIX,riskelaborate.com
 DOMAIN-SUFFIX,riskhector.com
 DOMAIN-SUFFIX,riskymuzzlebiopsy.com
+DOMAIN-SUFFIX,rissoidkyaung.com
 DOMAIN-SUFFIX,rivacathood.com
 DOMAIN-SUFFIX,rivalpout.com
 DOMAIN-SUFFIX,rivatedqualizebruisi.info
@@ -22993,6 +23006,7 @@ DOMAIN-SUFFIX,selfswayjay.com
 DOMAIN-SUFFIX,sellerher.com
 DOMAIN-SUFFIX,sellerignateignate.com
 DOMAIN-SUFFIX,sellingmombookstore.com
+DOMAIN-SUFFIX,sellisteatin.com
 DOMAIN-SUFFIX,selornews.com
 DOMAIN-SUFFIX,selunemtr.online
 DOMAIN-SUFFIX,selwrite.com
@@ -23150,6 +23164,7 @@ DOMAIN-SUFFIX,shaidraup.net
 DOMAIN-SUFFIX,shaihucmesa.com
 DOMAIN-SUFFIX,shaimsaijels.com
 DOMAIN-SUFFIX,shaimsoo.net
+DOMAIN-SUFFIX,shaissugritit.net
 DOMAIN-SUFFIX,shaitakroaks.net
 DOMAIN-SUFFIX,shaitchergu.net
 DOMAIN-SUFFIX,shaiwourtijogno.net
@@ -23604,6 +23619,7 @@ DOMAIN-SUFFIX,slinkzone.com
 DOMAIN-SUFFIX,slippersappointed.com
 DOMAIN-SUFFIX,slippersphoto.com
 DOMAIN-SUFFIX,slipperydeliverance.com
+DOMAIN-SUFFIX,slitingfears.com
 DOMAIN-SUFFIX,slivmux.com
 DOMAIN-SUFFIX,slk594.com
 DOMAIN-SUFFIX,slobgrandmadryer.com
@@ -27300,6 +27316,7 @@ DOMAIN-SUFFIX,voicepythons.shop
 DOMAIN-SUFFIX,voicerdefeats.com
 DOMAIN-SUFFIX,voidmodificationdough.com
 DOMAIN-SUFFIX,vokaunget.xyz
+DOMAIN-SUFFIX,volapiepalped.com
 DOMAIN-SUFFIX,volatintptr.com
 DOMAIN-SUFFIX,volcanoexhibitmeaning.com
 DOMAIN-SUFFIX,volcanostricken.com
@@ -27537,6 +27554,7 @@ DOMAIN-SUFFIX,wasanasosetto.com
 DOMAIN-SUFFIX,washedgrimlyhill.com
 DOMAIN-SUFFIX,washingchew.com
 DOMAIN-SUFFIX,washingoccasionally.com
+DOMAIN-SUFFIX,wasoolekretche.xyz
 DOMAIN-SUFFIX,wasortg.com
 DOMAIN-SUFFIX,wasp-182b.com
 DOMAIN-SUFFIX,waspdiana.com
@@ -29579,6 +29597,7 @@ DOMAIN-SUFFIX,affiliateedge.com
 DOMAIN-SUFFIX,affiliategroove.com
 DOMAIN-SUFFIX,affilimatejs.com
 DOMAIN-SUFFIX,affilist.com
+DOMAIN-SUFFIX,affilizz.com
 DOMAIN-SUFFIX,afishamedia.net
 DOMAIN-SUFFIX,afp.ai
 DOMAIN-SUFFIX,afrikad.com
@@ -30583,6 +30602,7 @@ DOMAIN-SUFFIX,33862684.xyz
 DOMAIN-SUFFIX,34475780.xyz
 DOMAIN-SUFFIX,36833185.xyz
 DOMAIN-SUFFIX,37066957.xyz
+DOMAIN-SUFFIX,38167473.xyz
 DOMAIN-SUFFIX,38835571.xyz
 DOMAIN-SUFFIX,38941752.xyz
 DOMAIN-SUFFIX,3a55f02d.xyz
@@ -30595,6 +30615,7 @@ DOMAIN-SUFFIX,45496fee.xyz
 DOMAIN-SUFFIX,4602306b.xyz
 DOMAIN-SUFFIX,46276192.xyz
 DOMAIN-SUFFIX,466c4d0f.xyz
+DOMAIN-SUFFIX,47235645.xyz
 DOMAIN-SUFFIX,47296536.xyz
 DOMAIN-SUFFIX,47415889.xyz
 DOMAIN-SUFFIX,48304789.xyz
@@ -32462,7 +32483,6 @@ DOMAIN-SUFFIX,richlifeads.ru
 DOMAIN-SUFFIX,tapulsads.ru
 DOMAIN-SUFFIX,httpdns.bilivideo.com
 DOMAIN-SUFFIX,dataflow.biliapi.com
-DOMAIN-SUFFIX,grpc.biliapi.net
 DOMAIN-SUFFIX,ads.adinmotech.com
 DOMAIN-SUFFIX,kvaedit.site
 DOMAIN-SUFFIX,ads-ap-venues.yinzcam.com
@@ -33095,6 +33115,7 @@ DOMAIN-SUFFIX,log-hl.snssdk.com
 DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,flippback.com
 DOMAIN-SUFFIX,log-auth.zztfly.com
 DOMAIN-SUFFIX,adsave.co
 DOMAIN-SUFFIX,analytics.bitchute.com
@@ -51435,6 +51456,11 @@ DOMAIN-SUFFIX,cnzz.trafficmanager.net
 DOMAIN-SUFFIX,lagzoids.com
 DOMAIN-SUFFIX,njnhzh.icu
 DOMAIN-SUFFIX,8u0.fun
+DOMAIN-SUFFIX,pheetuth.com
+DOMAIN-SUFFIX,4ve.fun
+DOMAIN-SUFFIX,tmjzlr.icu
+DOMAIN-SUFFIX,orkreats.com
+DOMAIN-SUFFIX,2hl.fun
 DOMAIN-SUFFIX,ztgha.xyz
 DOMAIN-SUFFIX,djsxm.xyz
 DOMAIN-SUFFIX,0vc.fun
