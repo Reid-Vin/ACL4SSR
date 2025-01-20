@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2025-01-19 06:09:11
-# 数量：63335条
+# 更新：2025-01-20 06:10:58
+# 数量：63342条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,unactkiosk.com
@@ -33126,7 +33126,6 @@ DOMAIN-SUFFIX,ib.snssdk.com
 DOMAIN-SUFFIX,xlog.snssdk.com
 DOMAIN-SUFFIX,log.snssdk.com
 DOMAIN-SUFFIX,sygrip.info
-DOMAIN-SUFFIX,flippback.com
 DOMAIN-SUFFIX,log-auth.zztfly.com
 DOMAIN-SUFFIX,adsave.co
 DOMAIN-SUFFIX,analytics.bitchute.com
@@ -36731,6 +36730,8 @@ DOMAIN-SUFFIX,webtrekk.net
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,tagman.britishairways.com
+DOMAIN-SUFFIX,frontend-logger.flippback.com
+DOMAIN-SUFFIX,analytics.nike.com
 DOMAIN-SUFFIX,hikari.jiocinema.com
 DOMAIN-SUFFIX,s.c-ctrip.com
 DOMAIN-SUFFIX,ma-adx.ctrip.com
@@ -43721,6 +43722,7 @@ DOMAIN-SUFFIX,vw.onlinia.net
 DOMAIN-SUFFIX,exchange.informer.ua
 DOMAIN-SUFFIX,hdvmyo.com
 DOMAIN-SUFFIX,adsy.mail.bg
+DOMAIN-SUFFIX,subaxe.xyz
 DOMAIN-SUFFIX,dahmnrmhyhsjxx.com
 DOMAIN-SUFFIX,rogxwgqovb.com
 DOMAIN-SUFFIX,ds.macellan.online
@@ -51469,6 +51471,11 @@ DOMAIN-SUFFIX,hp7.fun
 DOMAIN-SUFFIX,tuvrutsnf.com
 DOMAIN-SUFFIX,rpfuvj.icu
 DOMAIN-SUFFIX,4ce.fun
+DOMAIN-SUFFIX,h6o.fun
+DOMAIN-SUFFIX,gauqoith.com
+DOMAIN-SUFFIX,ccokamif.top
+DOMAIN-SUFFIX,saelphol.com
+DOMAIN-SUFFIX,pfbmht.icu
 DOMAIN-SUFFIX,lagzoids.com
 DOMAIN-SUFFIX,njnhzh.icu
 DOMAIN-SUFFIX,8u0.fun
