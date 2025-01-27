@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2025-01-26 06:08:59
-# 数量：63648条
+# 更新：2025-01-27 06:11:07
+# 数量：63655条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,wobbly-birth.com
@@ -30486,6 +30486,7 @@ DOMAIN-SUFFIX,promo-reklama.ru
 DOMAIN-SUFFIX,proper.io
 DOMAIN-SUFFIX,pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
 DOMAIN-SUFFIX,pub-referral-widget.current.us
+DOMAIN-SUFFIX,pubcircle.ai
 DOMAIN-SUFFIX,pubdirecte.com
 DOMAIN-SUFFIX,pubfuture.com
 DOMAIN-SUFFIX,pubgears.com
@@ -30889,8 +30890,10 @@ DOMAIN-SUFFIX,60571086.xyz
 DOMAIN-SUFFIX,605efe.xyz
 DOMAIN-SUFFIX,62842068.xyz
 DOMAIN-SUFFIX,634369.xyz
+DOMAIN-SUFFIX,63801782.xyz
 DOMAIN-SUFFIX,6471e7f7.xyz
 DOMAIN-SUFFIX,65035033.xyz
+DOMAIN-SUFFIX,65122038.xyz
 DOMAIN-SUFFIX,656f1ba3.xyz
 DOMAIN-SUFFIX,657475b7-0095-478d-90d4-96ce440604f9.online
 DOMAIN-SUFFIX,65894140.xyz
@@ -40759,7 +40762,6 @@ DOMAIN-SUFFIX,statsapi.screen9.com
 DOMAIN-SUFFIX,statscollector-1.agora.io
 DOMAIN-SUFFIX,statsig.anthropic.com
 DOMAIN-SUFFIX,statt-collect.herokuapp.com
-DOMAIN-SUFFIX,stk.px-cloud.net
 DOMAIN-SUFFIX,stream-log.dditscdn.com
 DOMAIN-SUFFIX,streams.cablecar.sph.com.sg
 DOMAIN-SUFFIX,sunlightmetrics.b-cdn.net
@@ -51727,6 +51729,9 @@ DOMAIN-SUFFIX,zvietnakello.weebly.com
 DOMAIN-SUFFIX,zywjpypco.7hujk.de
 DOMAIN-SUFFIX,51tongji.trafficmanager.net
 DOMAIN-SUFFIX,cnzz.trafficmanager.net
+DOMAIN-SUFFIX,xxsmad5.com
+DOMAIN-SUFFIX,hostolhg.com
+DOMAIN-SUFFIX,4zn.fun
 DOMAIN-SUFFIX,qaemphaels.com
 DOMAIN-SUFFIX,vhrhnh.icu
 DOMAIN-SUFFIX,7mk.fun
@@ -51737,6 +51742,8 @@ DOMAIN-SUFFIX,irkrellw.com
 DOMAIN-SUFFIX,txnczz.icu
 DOMAIN-SUFFIX,dklnxtcj.icu
 DOMAIN-SUFFIX,h3d.fun
+DOMAIN-SUFFIX,naettarq.com
+DOMAIN-SUFFIX,8sh.fun
 DOMAIN-SUFFIX,01240sop.xyz
 DOMAIN-SUFFIX,01231sop.xyz
 DOMAIN-SUFFIX,kruraits.com
