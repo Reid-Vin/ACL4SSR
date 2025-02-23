@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2025-02-22 06:09:43
-# 数量：61566条
+# 更新：2025-02-23 06:09:37
+# 数量：61577条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,adtarget.biz
@@ -49807,6 +49807,13 @@ DOMAIN-SUFFIX,zvietnakello.weebly.com
 DOMAIN-SUFFIX,zywjpypco.7hujk.de
 DOMAIN-SUFFIX,51tongji.trafficmanager.net
 DOMAIN-SUFFIX,cnzz.trafficmanager.net
+DOMAIN-SUFFIX,xplbxx.icu
+DOMAIN-SUFFIX,khoqetslh.com
+DOMAIN-SUFFIX,vdpwuxmo.icu
+DOMAIN-SUFFIX,jrblfv.icu
+DOMAIN-SUFFIX,xwma.cn
+DOMAIN-SUFFIX,spoaven.top
+DOMAIN-SUFFIX,tcinvdi.top
 DOMAIN-SUFFIX,torkeauwu.com
 DOMAIN-SUFFIX,zmpgln.icu
 DOMAIN-SUFFIX,hebaidu.cc
@@ -49815,6 +49822,10 @@ DOMAIN-SUFFIX,o02220aokk.com
 DOMAIN-SUFFIX,8y3j.cn
 DOMAIN-SUFFIX,wcinvde.top
 DOMAIN-SUFFIX,dbigboq.top
+DOMAIN-SUFFIX,heemphaers.com
+DOMAIN-SUFFIX,hlzncxmu.icu
+DOMAIN-SUFFIX,qcinvdy.top
+DOMAIN-SUFFIX,s7vf.cn
 DOMAIN-SUFFIX,fttxhcua.icu
 DOMAIN-SUFFIX,crazodsxx.com
 DOMAIN-SUFFIX,kcinvdd.top
