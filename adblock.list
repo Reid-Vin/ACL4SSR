@@ -3,8 +3,8 @@
 # 来源：https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 # 来源：https://adaway.org/hosts.txt
 # 来源：https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/domain.txt
-# 更新：2025-04-29 06:12:44
-# 数量：113509条
+# 更新：2025-04-30 06:12:38
+# 数量：113516条
 # 作者：Reid_Vin_Action
 
 DOMAIN-SUFFIX,nvpartnerspromo.com
@@ -36129,6 +36129,7 @@ DOMAIN-SUFFIX,adballoon.sooplive.co.kr
 DOMAIN-SUFFIX,deapi.sooplive.co.kr
 DOMAIN-SUFFIX,startup.mobile.yandex.net
 DOMAIN-SUFFIX,startup-mobile.ap.yandex-net.ru
+DOMAIN-SUFFIX,maticooads.com
 DOMAIN-SUFFIX,apishow.babybus.com
 DOMAIN-SUFFIX,apppromoteapi.babybus.com
 DOMAIN-SUFFIX,tiktokpangle.us
@@ -87195,6 +87196,8 @@ DOMAIN-SUFFIX,wiz.sncf-connect.com
 DOMAIN-SUFFIX,wz.allianz.fr
 DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
 DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+DOMAIN-SUFFIX,ashiato.travel.rakuten.co.jp
+DOMAIN-SUFFIX,event.notifier.rakuten.co.jp
 DOMAIN-SUFFIX,log.tosspayments.com
 DOMAIN-SUFFIX,event.tosspayments.com
 DOMAIN-SUFFIX,pipeline.rd.nl
@@ -89798,6 +89801,7 @@ DOMAIN-SUFFIX,int.vaicore.xyz
 DOMAIN-SUFFIX,int.vlancaa.site
 DOMAIN-SUFFIX,int.vlancaa.fun
 DOMAIN-SUFFIX,tok.vaicore.xyz
+DOMAIN-SUFFIX,log-sdk.ksapisrv.com
 DOMAIN-SUFFIX,ulogjs.ksapisrv.com
 DOMAIN-SUFFIX,adashx4id.ut.taobao.com
 DOMAIN-SUFFIX,analytics.us.tiktok.com
@@ -101842,6 +101846,8 @@ DOMAIN-SUFFIX,exoh.cn
 DOMAIN-SUFFIX,rhdifs.top
 DOMAIN-SUFFIX,enwuamw.top
 DOMAIN-SUFFIX,mwcnmtx.top
+DOMAIN-SUFFIX,wwok04291kl.com
+DOMAIN-SUFFIX,fvitteilse.com
 DOMAIN-SUFFIX,oldh.cn
 DOMAIN-SUFFIX,vcaqexl.com
 DOMAIN-SUFFIX,hua4207.xyz
@@ -106199,6 +106205,7 @@ DOMAIN-SUFFIX,jpg1.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,jun01.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 DOMAIN-SUFFIX,wzjs1.oss-accelerate.aliyuncs.com
+DOMAIN-SUFFIX,mihoutao1868.github.io
 DOMAIN-SUFFIX,22588888.com
 DOMAIN-SUFFIX,2481e.com
 DOMAIN-SUFFIX,693836.com
