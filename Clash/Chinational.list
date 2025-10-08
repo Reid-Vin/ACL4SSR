@@ -1,0 +1,12 @@
+# China + International
+# 中站国际
+# 中国大陆网站的国际版本
+
+# B站国际站点
+DOMAIN-SUFFIX,bilibili.tv
+
+# 爱奇艺国际站点
+DOMAIN-SUFFIX,iq.com
+
+# 腾讯视频国际站点
+DOMAIN-SUFFIX,wetv.vip
