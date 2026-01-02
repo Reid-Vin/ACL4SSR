@@ -1,7 +1,0 @@
-# > Scholar 用于自定义一些常用的走代理的网站
-# - DOMAIN-SUFFIX,link.zhihu.com
-DOMAIN-KEYWORD,google.com/voice
-DOMAIN-KEYWORD,voice.google.com
-DOMAIN-KEYWORD,voice-google
-DOMAIN-KEYWORD,voice.client
-DOMAIN-KEYWORD,google
