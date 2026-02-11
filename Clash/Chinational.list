@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,iq.com
 
 # 腾讯视频国际站点
 DOMAIN-SUFFIX,wetv.vip
+
+# 原本国内能直接访问的站点 后来被屏蔽
+DOMAIN-SUFFIX,openwrt.ai
